@@ -1,0 +1,24 @@
+"RegistryPath","Path","Name","Kind","Value"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Windows,,String,mnmsrvc
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Windows,AppInit_DLLs,String,
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Windows,DdeSendTimeout,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Windows,DesktopHeapLogging,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Windows,DeviceNotSelectedTimeout,String,15
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Windows,DwmInputUsesIoCompletionPort,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Windows,EnableDwmInputProcessing,DWord,"00000007"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Windows,GDIProcessHandleQuota,DWord,"00002710"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Windows,IconServiceLib,String,IconCodecService.dll
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Windows,LoadAppInit_DLLs,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Windows,NaturalInputHandler,String,Ninput.dll
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Windows,ShutdownWarningDialogTimeout,DWord,"FFFFFFFF"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Windows,Spooler,String,yes
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Windows,ThreadUnresponsiveLogTimeout,DWord,"000001F4"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Windows,TransmissionRetryTimeout,String,90
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Windows,USERNestedWindowLimit,DWord,"00000032"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Windows,USERPostMessageLimit,DWord,"00002710"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Windows,USERProcessHandleQuota,DWord,"00002710"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Windows\Win32kWPP\Parameters,ForceLogsInMiniDump,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Windows\Win32kWPP\Parameters,LogPages,DWord,"00000014"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Windows\Win32kWPP\Parameters,Verbose,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Windows\Win32kWPP\Parameters,WppRecorder_PerBufferMaxBytes,DWord,"00014000"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Windows\Win32kWPP\Parameters,WppRecorder_PerBufferMinBytes,DWord,"00000200"

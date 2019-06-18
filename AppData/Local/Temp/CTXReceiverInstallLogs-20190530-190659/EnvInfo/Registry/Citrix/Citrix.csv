@@ -1,0 +1,3 @@
+"RegistryPath","Path","Name","Kind","Value"
+HiveKeyLocalMachine,Software\Citrix\Installer,CitrixReceiverWeb,DWord,"00000001"
+HiveKeyLocalMachine,Software\Wow6432Node\Citrix\Installer,CitrixReceiverWeb,DWord,"00000001"

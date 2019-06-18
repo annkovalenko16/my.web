@@ -1,0 +1,13 @@
+"RegistryPath","Path","Name","Kind","Value"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Print\Providers,EventLog,DWord,"00000003"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Print\Providers,NetPopup,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Print\Providers,NetPopupToComputer,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Print\Providers,order,MultiString,"LanMan Print Services,Internet Print Provider"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Print\Providers,RestartJobOnPoolEnabled,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Print\Providers,RestartJobOnPoolError,DWord,"00000258"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Print\Providers,RetryPopup,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Print\Providers\Internet Print Provider,DisplayName,String,HTTP Print Services
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Print\Providers\Internet Print Provider,Name,String,inetpp.dll
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Print\Providers\LanMan Print Services,DisplayName,String,LanMan Print Services
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Print\Providers\LanMan Print Services,Name,String,win32spl.dll
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Print\Providers\LanMan Print Services\Servers,AddPrinterDrivers,DWord,"00000000"

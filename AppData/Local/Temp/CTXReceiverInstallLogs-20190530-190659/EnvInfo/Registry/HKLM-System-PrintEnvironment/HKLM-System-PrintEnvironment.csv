@@ -1,0 +1,167 @@
+"RegistryPath","Path","Name","Kind","Value"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows 4.0,Directory,String,WIN40
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows ARM64,Directory,String,ARM64
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows ARM64\Drivers\Version-4,Directory,String,4
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows ARM64\Drivers\Version-4,MajorVersion,DWord,"00000004"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows ARM64\Drivers\Version-4,MinorVersion,DWord,"00000000"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows IA64,Directory,String,IA64
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows IA64\Drivers\Version-3,Directory,String,3
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows IA64\Drivers\Version-3,MajorVersion,DWord,"00000003"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows IA64\Drivers\Version-3,MinorVersion,DWord,"00000000"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86,Directory,String,W32X86
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3,Directory,String,3
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3,MajorVersion,DWord,"00000003"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3,MinorVersion,DWord,"00000000"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,App Registration,MultiString,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,Attributes,DWord,"00000002"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,Base Driver,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,ColorProfiles,MultiString,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,Configuration File,String,PrintConfig.dll
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,CoreDependencies,MultiString,{D20EA372-DD35-4950-9ED8-A6335AFE79F5}
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,Data File,String,unishare.gpd
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,Datatype,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,Dependent Files,MultiString,unishare-pipelineconfig.xml
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,Driver,String,mxdwdrv.dll
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,DriverDate,String,06/21/2006
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,DriverVersion,String,10.0.17134.1
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,HardwareID,String,microsoftmicrosoft_musd
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,Help File,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,InfPath,String,C:\WINDOWS\System32\DriverStore\FileRepository\prnms003.inf_x86_1b73e82904a4452d\prnms003.inf
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,LastServicedBuild,DWord,"000042EE"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,Manufacturer,String,Microsoft
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,MinInboxDriverVerDate,String,01/01/1601
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,MinInboxDriverVerVersion,String,0.0.0.0
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,Monitor,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,OEM URL,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,Previous Names,MultiString,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,Print Processor,String,winprint
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,PrinterDriverAttributes,DWord,"00000023"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,PrinterDriverID,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,Provider,String,Microsoft
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,TempDir,DWord,"00000000"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,VendorSetup,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,Version,DWord,"00000003"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64,Directory,String,x64
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3,Directory,String,3
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3,MajorVersion,DWord,"00000003"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3,MinorVersion,DWord,"00000000"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,App Registration,MultiString,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,Attributes,DWord,"00000002"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,Base Driver,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,ColorProfiles,MultiString,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,Configuration File,String,PrintConfig.dll
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,CoreDependencies,MultiString,{D20EA372-DD35-4950-9ED8-A6335AFE79F5}
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,Data File,String,unishare.gpd
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,Datatype,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,Dependent Files,MultiString,unishare-pipelineconfig.xml
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,Driver,String,mxdwdrv.dll
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,DriverDate,String,06/21/2006
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,DriverVersion,String,10.0.17134.1
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,HardwareID,String,microsoftmicrosoft_musd
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,Help File,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,InfPath,String,C:\WINDOWS\System32\DriverStore\FileRepository\prnms003.inf_amd64_995df3a27d527cea\prnms003.inf
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,LastServicedBuild,DWord,"000042EE"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,Manufacturer,String,Microsoft
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,MinInboxDriverVerDate,String,01/01/1601
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,MinInboxDriverVerVersion,String,0.0.0.0
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,Monitor,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,OEM URL,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,Previous Names,MultiString,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,Print Processor,String,winprint
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,PrinterDriverAttributes,DWord,"00000023"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,PrinterDriverID,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,Provider,String,Microsoft
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,TempDir,DWord,"00000000"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,VendorSetup,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft enhanced Point and Print compatibility driver,Version,DWord,"00000003"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft Shared Fax Driver,App Registration,MultiString,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft Shared Fax Driver,Attributes,DWord,"00000002"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft Shared Fax Driver,Base Driver,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft Shared Fax Driver,ColorProfiles,MultiString,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft Shared Fax Driver,Configuration File,String,FXSUI.DLL
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft Shared Fax Driver,CoreDependencies,MultiString,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft Shared Fax Driver,Data File,String,FXSUI.DLL
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft Shared Fax Driver,Datatype,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft Shared Fax Driver,Dependent Files,MultiString,"FXSWZRD.DLL,FXSTIFF.DLL,FXSRES.DLL,FXSAPI.DLL"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft Shared Fax Driver,Driver,String,FXSDRV.DLL
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft Shared Fax Driver,DriverDate,String,06/21/2006
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft Shared Fax Driver,DriverVersion,String,10.0.17134.1
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft Shared Fax Driver,HardwareID,String,microsoftmicrosoft_s7d14
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft Shared Fax Driver,Help File,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft Shared Fax Driver,InfPath,String,C:\WINDOWS\System32\DriverStore\FileRepository\prnms002.inf_amd64_c50f5f4d2bc3cb0a\prnms002.inf
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft Shared Fax Driver,LastServicedBuild,DWord,"000042EE"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft Shared Fax Driver,Manufacturer,String,Microsoft
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft Shared Fax Driver,MinInboxDriverVerDate,String,01/01/1601
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft Shared Fax Driver,MinInboxDriverVerVersion,String,0.0.0.0
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft Shared Fax Driver,Monitor,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft Shared Fax Driver,OEM URL,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft Shared Fax Driver,Previous Names,MultiString,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft Shared Fax Driver,Print Processor,String,winprint
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft Shared Fax Driver,PrinterDriverAttributes,DWord,"00000041"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft Shared Fax Driver,PrinterDriverID,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft Shared Fax Driver,Provider,String,Microsoft
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft Shared Fax Driver,TempDir,DWord,"00000000"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft Shared Fax Driver,VendorSetup,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-3\Microsoft Shared Fax Driver,Version,DWord,"00000003"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4,Directory,String,4
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4,MajorVersion,DWord,"00000004"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4,MinorVersion,DWord,"00000000"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft Print To PDF,App Registration,MultiString,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft Print To PDF,Attributes,DWord,"00000002"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft Print To PDF,Base Driver,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft Print To PDF,ColorProfiles,MultiString,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft Print To PDF,Configuration File,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft Print To PDF,CoreDependencies,MultiString,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft Print To PDF,Data File,String,MPDW-PDC.xml
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft Print To PDF,Datatype,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft Print To PDF,Dependent Files,MultiString,"MPDW-manifest.ini,MPDW-pipelineconfig.xml,MPDW-constraints.js,MPDW_devmode_map.xml,ntprint4|PDFRenderFilter.dll,ntprint|StdNames.gpd,ntprint|unires.dll"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft Print To PDF,Driver,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft Print To PDF,DriverDate,String,06/21/2006
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft Print To PDF,DriverVersion,String,10.0.17134.1
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft Print To PDF,HardwareID,String,{084f01fa-e634-4d77-83ee-074817c03581}
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft Print To PDF,Help File,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft Print To PDF,InfPath,String,C:\WINDOWS\System32\DriverStore\FileRepository\prnms009.inf_amd64_5887f9f923285dd6\prnms009.inf
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft Print To PDF,LastServicedBuild,DWord,"000042EE"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft Print To PDF,Manufacturer,String,Microsoft
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft Print To PDF,MinInboxDriverVerDate,String,01/01/1601
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft Print To PDF,MinInboxDriverVerVersion,String,0.0.0.0
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft Print To PDF,Monitor,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft Print To PDF,OEM URL,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft Print To PDF,Previous Names,MultiString,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft Print To PDF,Print Processor,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft Print To PDF,PrinterDriverAttributes,DWord,"000000A3"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft Print To PDF,PrinterDriverID,String,{084F01FA-E634-4D77-83EE-074817C03581}
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft Print To PDF,Provider,String,Microsoft
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft Print To PDF,TempDir,DWord,"00000000"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft Print To PDF,VendorSetup,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft Print To PDF,Version,DWord,"00000004"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft XPS Document Writer v4,App Registration,MultiString,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft XPS Document Writer v4,Attributes,DWord,"00000002"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft XPS Document Writer v4,Base Driver,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft XPS Document Writer v4,ColorProfiles,MultiString,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft XPS Document Writer v4,Configuration File,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft XPS Document Writer v4,CoreDependencies,MultiString,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft XPS Document Writer v4,Data File,String,MXDW.gpd
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft XPS Document Writer v4,Datatype,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft XPS Document Writer v4,Dependent Files,MultiString,"MXDW-manifest.ini,MXDW-pipelineconfig.xml,mxdwdui.dll,ntprint|UNIRES.DLL,ntprint|STDNAMES.GPD,ntprint|STDDTYPE.GDL,ntprint|STDSCHEM.GDL,ntprint|STDSCHMX.GDL,ntprint|MSXPSINC.GPD"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft XPS Document Writer v4,Driver,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft XPS Document Writer v4,DriverDate,String,06/21/2006
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft XPS Document Writer v4,DriverVersion,String,10.0.17134.1
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft XPS Document Writer v4,HardwareID,String,{0f4130dd-19c7-7ab6-99a1-980f03b2ee4e}
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft XPS Document Writer v4,Help File,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft XPS Document Writer v4,InfPath,String,C:\WINDOWS\System32\DriverStore\FileRepository\prnms001.inf_amd64_cb0feabdd71f0e97\prnms001.inf
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft XPS Document Writer v4,LastServicedBuild,DWord,"000042EE"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft XPS Document Writer v4,Manufacturer,String,Microsoft
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft XPS Document Writer v4,MinInboxDriverVerDate,String,01/01/1601
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft XPS Document Writer v4,MinInboxDriverVerVersion,String,0.0.0.0
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft XPS Document Writer v4,Monitor,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft XPS Document Writer v4,OEM URL,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft XPS Document Writer v4,Previous Names,MultiString,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft XPS Document Writer v4,Print Processor,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft XPS Document Writer v4,PrinterDriverAttributes,DWord,"000000A3"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft XPS Document Writer v4,PrinterDriverID,String,{0F4130DD-19C7-7AB6-99A1-980F03B2EE4E}
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft XPS Document Writer v4,Provider,String,Microsoft
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft XPS Document Writer v4,TempDir,DWord,"00000000"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft XPS Document Writer v4,VendorSetup,String,
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Drivers\Version-4\Microsoft XPS Document Writer v4,Version,DWord,"00000004"
+HiveKeyLocalMachine,SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Print Processors\winprint,Driver,String,winprint.dll

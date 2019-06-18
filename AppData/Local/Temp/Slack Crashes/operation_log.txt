@@ -1,0 +1,893 @@
+[10296:10848:0530/191827.550:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[10296:10848:0530/191827.554:VERBOSE1:crash_service.cc(147)] window handle is 00000000000B0282
+[10296:10848:0530/191827.555:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[10296:10848:0530/191827.555:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[10296:10848:0530/191827.556:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[10296:248:0530/191827.556:VERBOSE1:crash_service.cc(309)] client start. pid = 9244
+[10296:248:0530/191830.662:VERBOSE1:crash_service.cc(309)] client start. pid = 7952
+[9212:7908:0530/191830.684:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6 --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[9212:7908:0530/191830.688:VERBOSE1:crash_service.cc(147)] window handle is 00000000000D02E0
+[9212:7908:0530/191830.688:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[9212:7908:0530/191830.688:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6
+maximum 128 reports/day
+reporter is electron-crash-service
+[9212:7908:0530/191830.688:ERROR:crash_service.cc(286)] could not start dumper
+[10296:6160:0530/192018.328:VERBOSE1:crash_service.cc(318)] client end. pid = 7952
+[10296:248:0530/192019.958:VERBOSE1:crash_service.cc(309)] client start. pid = 1404
+[4188:9048:0530/192019.987:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[4188:9048:0530/192019.991:VERBOSE1:crash_service.cc(147)] window handle is 00000000001204E4
+[4188:9048:0530/192019.991:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[4188:9048:0530/192019.991:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[4188:9048:0530/192019.991:ERROR:crash_service.cc(286)] could not start dumper
+[10296:10848:0530/193118.586:VERBOSE1:crash_service.cc(473)] session ending..
+[10296:10848:0530/193118.586:VERBOSE1:crash_service.cc(478)] clients connected :3
+clients terminated :1
+dumps serviced :0
+dumps reported :0
+[12756:12760:0531/084547.631:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[12756:12760:0531/084547.646:VERBOSE1:crash_service.cc(147)] window handle is 0000000000010466
+[12756:12760:0531/084547.646:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[12756:12760:0531/084547.646:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[12756:12760:0531/084547.646:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[12756:12804:0531/084547.646:VERBOSE1:crash_service.cc(309)] client start. pid = 7000
+[12756:12804:0531/084549.852:VERBOSE1:crash_service.cc(309)] client start. pid = 13064
+[13236:13240:0531/084549.874:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[13236:13240:0531/084549.877:VERBOSE1:crash_service.cc(147)] window handle is 000000000002044E
+[13236:13240:0531/084549.877:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[13236:13240:0531/084549.877:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[13236:13240:0531/084549.877:ERROR:crash_service.cc(286)] could not start dumper
+[8160:1560:0602/133008.329:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[8160:1560:0602/133008.333:VERBOSE1:crash_service.cc(147)] window handle is 00000000000104C2
+[8160:1560:0602/133008.333:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[8160:1560:0602/133008.333:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[8160:1560:0602/133008.333:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[8160:1780:0602/133008.334:VERBOSE1:crash_service.cc(309)] client start. pid = 2120
+[8160:1780:0602/133010.945:VERBOSE1:crash_service.cc(309)] client start. pid = 10728
+[9104:13316:0602/133010.983:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[9104:13316:0602/133010.986:VERBOSE1:crash_service.cc(147)] window handle is 00000000000204F6
+[9104:13316:0602/133010.986:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[9104:13316:0602/133010.986:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[9104:13316:0602/133010.987:ERROR:crash_service.cc(286)] could not start dumper
+[32:12956:0603/091757.045:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[32:12956:0603/091757.045:VERBOSE1:crash_service.cc(147)] window handle is 00000000000204D4
+[32:12956:0603/091757.045:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[32:12956:0603/091757.045:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[32:12956:0603/091757.045:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[32:1640:0603/091757.045:VERBOSE1:crash_service.cc(309)] client start. pid = 6664
+[32:1640:0603/091759.282:VERBOSE1:crash_service.cc(309)] client start. pid = 7884
+[9700:11380:0603/091759.303:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[9700:11380:0603/091759.306:VERBOSE1:crash_service.cc(147)] window handle is 0000000000010500
+[9700:11380:0603/091759.306:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[9700:11380:0603/091759.306:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[9700:11380:0603/091759.306:ERROR:crash_service.cc(286)] could not start dumper
+[8112:14240:0603/200414.343:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[8112:14240:0603/200414.343:VERBOSE1:crash_service.cc(147)] window handle is 00000000000202FE
+[8112:14240:0603/200414.343:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[8112:14240:0603/200414.343:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[8112:14240:0603/200414.343:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[8112:12112:0603/200414.343:VERBOSE1:crash_service.cc(309)] client start. pid = 2592
+[8112:12112:0603/200417.206:VERBOSE1:crash_service.cc(309)] client start. pid = 9736
+[11608:13488:0603/200417.230:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[11608:13488:0603/200417.234:VERBOSE1:crash_service.cc(147)] window handle is 00000000000104C0
+[11608:13488:0603/200417.234:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[11608:13488:0603/200417.234:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[11608:13488:0603/200417.234:ERROR:crash_service.cc(286)] could not start dumper
+[6344:12192:0604/090815.570:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[6344:12192:0604/090815.573:VERBOSE1:crash_service.cc(147)] window handle is 0000000000020376
+[6344:12192:0604/090815.573:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[6344:12192:0604/090815.573:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[6344:12192:0604/090815.573:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[6344:11520:0604/090815.575:VERBOSE1:crash_service.cc(309)] client start. pid = 9488
+[6344:11520:0604/090818.094:VERBOSE1:crash_service.cc(309)] client start. pid = 11796
+[7828:2600:0604/090818.124:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[7828:2600:0604/090818.129:VERBOSE1:crash_service.cc(147)] window handle is 000000000001048A
+[7828:2600:0604/090818.129:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[7828:2600:0604/090818.129:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[7828:2600:0604/090818.129:ERROR:crash_service.cc(286)] could not start dumper
+[1160:5212:0604/144930.493:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[1160:5212:0604/144930.504:VERBOSE1:crash_service.cc(147)] window handle is 00000000000300F2
+[1160:5212:0604/144930.504:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[1160:5212:0604/144930.504:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[1160:5212:0604/144930.504:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[1160:9856:0604/144930.512:VERBOSE1:crash_service.cc(309)] client start. pid = 9724
+[1160:9856:0604/144932.963:VERBOSE1:crash_service.cc(309)] client start. pid = 10308
+[11064:11068:0604/144932.988:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[11064:11068:0604/144932.991:VERBOSE1:crash_service.cc(147)] window handle is 000000000004035E
+[11064:11068:0604/144932.991:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[11064:11068:0604/144932.991:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[11064:11068:0604/144932.991:ERROR:crash_service.cc(286)] could not start dumper
+[9484:7856:0604/194435.446:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[9484:7856:0604/194435.455:VERBOSE1:crash_service.cc(147)] window handle is 00000000000303DC
+[9484:7856:0604/194435.455:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[9484:7856:0604/194435.455:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[9484:7856:0604/194435.456:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[9484:2620:0604/194435.460:VERBOSE1:crash_service.cc(309)] client start. pid = 8652
+[9484:2620:0604/194438.494:VERBOSE1:crash_service.cc(309)] client start. pid = 2572
+[12068:11656:0604/194438.534:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[12068:11656:0604/194438.541:VERBOSE1:crash_service.cc(147)] window handle is 0000000000020462
+[12068:11656:0604/194438.542:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[12068:11656:0604/194438.542:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[12068:11656:0604/194438.542:ERROR:crash_service.cc(286)] could not start dumper
+[3940:8860:0605/085330.367:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[3940:8860:0605/085330.377:VERBOSE1:crash_service.cc(147)] window handle is 0000000000010484
+[3940:8860:0605/085330.377:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[3940:8860:0605/085330.377:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[3940:8860:0605/085330.377:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[3940:8740:0605/085330.397:VERBOSE1:crash_service.cc(309)] client start. pid = 8780
+[3940:8740:0605/085335.649:VERBOSE1:crash_service.cc(309)] client start. pid = 14004
+[13808:13812:0605/085335.674:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[13808:13812:0605/085335.679:VERBOSE1:crash_service.cc(147)] window handle is 00000000000204E6
+[13808:13812:0605/085335.679:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[13808:13812:0605/085335.679:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[13808:13812:0605/085335.679:ERROR:crash_service.cc(286)] could not start dumper
+[4408:13372:0605/093313.641:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[4408:13372:0605/093313.647:VERBOSE1:crash_service.cc(147)] window handle is 000000000002038C
+[4408:13372:0605/093313.647:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[4408:13372:0605/093313.647:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[4408:13372:0605/093313.647:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[4408:10168:0605/093313.657:VERBOSE1:crash_service.cc(309)] client start. pid = 9920
+[4408:10168:0605/093316.413:VERBOSE1:crash_service.cc(309)] client start. pid = 9868
+[13592:4780:0605/093316.436:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[13592:4780:0605/093316.439:VERBOSE1:crash_service.cc(147)] window handle is 00000000000202B0
+[13592:4780:0605/093316.439:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[13592:4780:0605/093316.439:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[13592:4780:0605/093316.439:ERROR:crash_service.cc(286)] could not start dumper
+[4408:10168:0605/094610.258:VERBOSE1:crash_service.cc(309)] client start. pid = 13604
+[984:9024:0605/094610.284:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[984:9024:0605/094610.287:VERBOSE1:crash_service.cc(147)] window handle is 00000000000404FC
+[984:9024:0605/094610.287:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[984:9024:0605/094610.288:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[984:9024:0605/094610.288:ERROR:crash_service.cc(286)] could not start dumper
+[4408:10448:0605/094610.995:VERBOSE1:crash_service.cc(318)] client end. pid = 13604
+[12920:12924:0606/094415.848:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[12920:12924:0606/094415.856:VERBOSE1:crash_service.cc(147)] window handle is 0000000000010476
+[12920:12924:0606/094415.856:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[12920:12924:0606/094415.856:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[12920:12924:0606/094415.856:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[12920:12972:0606/094415.858:VERBOSE1:crash_service.cc(309)] client start. pid = 8064
+[12920:12972:0606/094419.969:VERBOSE1:crash_service.cc(309)] client start. pid = 14256
+[8388:8384:0606/094419.998:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[8388:8384:0606/094420.001:VERBOSE1:crash_service.cc(147)] window handle is 000000000002054C
+[8388:8384:0606/094420.001:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[8388:8384:0606/094420.002:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[8388:8384:0606/094420.002:ERROR:crash_service.cc(286)] could not start dumper
+[6992:14360:0607/090708.231:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[6992:14360:0607/090708.279:VERBOSE1:crash_service.cc(147)] window handle is 00000000000403C2
+[6992:14360:0607/090708.279:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[6992:14360:0607/090708.279:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[6992:14360:0607/090708.279:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[6992:5100:0607/090708.296:VERBOSE1:crash_service.cc(309)] client start. pid = 4916
+[6992:5100:0607/090716.655:VERBOSE1:crash_service.cc(309)] client start. pid = 1728
+[9728:7716:0607/090716.683:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[9728:7716:0607/090716.689:VERBOSE1:crash_service.cc(147)] window handle is 00000000000200C6
+[9728:7716:0607/090716.690:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[9728:7716:0607/090716.690:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[9728:7716:0607/090716.690:ERROR:crash_service.cc(286)] could not start dumper
+[11212:13344:0607/213629.766:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[11212:13344:0607/213629.776:VERBOSE1:crash_service.cc(147)] window handle is 00000000000104EC
+[11212:13344:0607/213629.776:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[11212:13344:0607/213629.776:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[11212:13344:0607/213629.776:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[11212:14568:0607/213629.776:VERBOSE1:crash_service.cc(309)] client start. pid = 13236
+[11212:14568:0607/213632.641:VERBOSE1:crash_service.cc(309)] client start. pid = 13756
+[12472:12132:0607/213632.709:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[12472:12132:0607/213632.767:VERBOSE1:crash_service.cc(147)] window handle is 00000000000401E8
+[12472:12132:0607/213632.767:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[12472:12132:0607/213632.769:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[12472:12132:0607/213632.769:ERROR:crash_service.cc(286)] could not start dumper
+[13108:13112:0608/154103.539:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[13108:13112:0608/154103.542:VERBOSE1:crash_service.cc(147)] window handle is 00000000000104A8
+[13108:13112:0608/154103.542:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[13108:13112:0608/154103.542:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[13108:13112:0608/154103.542:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[13108:13184:0608/154103.545:VERBOSE1:crash_service.cc(309)] client start. pid = 11820
+[13108:13184:0608/154107.077:VERBOSE1:crash_service.cc(309)] client start. pid = 13644
+[5700:12664:0608/154107.124:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[5700:12664:0608/154107.141:VERBOSE1:crash_service.cc(147)] window handle is 0000000000020466
+[5700:12664:0608/154107.141:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[5700:12664:0608/154107.142:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[5700:12664:0608/154107.142:ERROR:crash_service.cc(286)] could not start dumper
+[10540:10976:0608/210456.008:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[10540:10976:0608/210456.012:VERBOSE1:crash_service.cc(147)] window handle is 000000000003003C
+[10540:10976:0608/210456.012:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[10540:10976:0608/210456.013:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[10540:10976:0608/210456.013:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[10540:9376:0608/210456.014:VERBOSE1:crash_service.cc(309)] client start. pid = 3984
+[10540:9376:0608/210458.291:VERBOSE1:crash_service.cc(309)] client start. pid = 2244
+[14132:10656:0608/210458.325:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[14132:10656:0608/210458.334:VERBOSE1:crash_service.cc(147)] window handle is 0000000000030450
+[14132:10656:0608/210458.334:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[14132:10656:0608/210458.335:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[14132:10656:0608/210458.335:ERROR:crash_service.cc(286)] could not start dumper
+[11488:12864:0609/124951.818:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[11488:12864:0609/124951.818:VERBOSE1:crash_service.cc(147)] window handle is 000000000001046E
+[11488:12864:0609/124951.818:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[11488:12864:0609/124951.818:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[11488:12864:0609/124951.818:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[11488:6328:0609/124951.826:VERBOSE1:crash_service.cc(309)] client start. pid = 11196
+[11488:6328:0609/124954.641:VERBOSE1:crash_service.cc(309)] client start. pid = 9052
+[13936:13060:0609/124954.665:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[13936:13060:0609/124954.669:VERBOSE1:crash_service.cc(147)] window handle is 00000000000104E2
+[13936:13060:0609/124954.669:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[13936:13060:0609/124954.669:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[13936:13060:0609/124954.669:ERROR:crash_service.cc(286)] could not start dumper
+[5252:14112:0610/085143.469:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[5252:14112:0610/085143.479:VERBOSE1:crash_service.cc(147)] window handle is 0000000000010452
+[5252:14112:0610/085143.479:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[5252:14112:0610/085143.479:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[5252:14112:0610/085143.479:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[5252:14152:0610/085143.479:VERBOSE1:crash_service.cc(309)] client start. pid = 5096
+[5252:14152:0610/085146.548:VERBOSE1:crash_service.cc(309)] client start. pid = 2716
+[12852:1180:0610/085146.629:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[12852:1180:0610/085146.691:VERBOSE1:crash_service.cc(147)] window handle is 0000000000020474
+[12852:1180:0610/085146.691:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[12852:1180:0610/085146.691:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[12852:1180:0610/085146.691:ERROR:crash_service.cc(286)] could not start dumper
+[6688:7752:0610/150332.560:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[6688:7752:0610/150332.576:VERBOSE1:crash_service.cc(147)] window handle is 000000000001030C
+[6688:7752:0610/150332.576:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[6688:7752:0610/150332.576:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[6688:7752:0610/150332.576:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[6688:5776:0610/150332.576:VERBOSE1:crash_service.cc(309)] client start. pid = 3396
+[6688:5776:0610/150335.640:VERBOSE1:crash_service.cc(309)] client start. pid = 5472
+[4876:10516:0610/150335.666:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[4876:10516:0610/150335.669:VERBOSE1:crash_service.cc(147)] window handle is 00000000000601FE
+[4876:10516:0610/150335.669:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[4876:10516:0610/150335.669:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[4876:10516:0610/150335.669:ERROR:crash_service.cc(286)] could not start dumper
+[6468:11936:0610/183753.750:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[6468:11936:0610/183753.780:VERBOSE1:crash_service.cc(147)] window handle is 000000000001045A
+[6468:11936:0610/183753.780:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[6468:11936:0610/183753.780:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[6468:11936:0610/183753.780:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[6468:7960:0610/183753.780:VERBOSE1:crash_service.cc(309)] client start. pid = 1516
+[6468:7960:0610/183758.722:VERBOSE1:crash_service.cc(309)] client start. pid = 12396
+[9720:884:0610/183758.761:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[9720:884:0610/183758.793:VERBOSE1:crash_service.cc(147)] window handle is 0000000000010510
+[9720:884:0610/183758.794:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[9720:884:0610/183758.794:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[9720:884:0610/183758.794:ERROR:crash_service.cc(286)] could not start dumper
+[5272:14744:0611/084826.371:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[5272:14744:0611/084826.386:VERBOSE1:crash_service.cc(147)] window handle is 0000000000030034
+[5272:14744:0611/084826.386:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[5272:14744:0611/084826.386:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[5272:14744:0611/084826.386:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[5272:4928:0611/084826.386:VERBOSE1:crash_service.cc(309)] client start. pid = 12536
+[5272:4928:0611/084829.054:VERBOSE1:crash_service.cc(309)] client start. pid = 2368
+[10332:6876:0611/084829.086:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[10332:6876:0611/084829.089:VERBOSE1:crash_service.cc(147)] window handle is 000000000002044A
+[10332:6876:0611/084829.089:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[10332:6876:0611/084829.089:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[10332:6876:0611/084829.089:ERROR:crash_service.cc(286)] could not start dumper
+[5272:4928:0611/140418.015:VERBOSE1:crash_service.cc(309)] client start. pid = 5932
+[9640:7352:0611/140418.044:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[9640:7352:0611/140418.049:VERBOSE1:crash_service.cc(147)] window handle is 00000000003805F6
+[9640:7352:0611/140418.049:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[9640:7352:0611/140418.049:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[9640:7352:0611/140418.049:ERROR:crash_service.cc(286)] could not start dumper
+[5272:4928:0611/140422.662:VERBOSE1:crash_service.cc(309)] client start. pid = 11012
+[14496:13888:0611/140422.704:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[14496:13888:0611/140422.723:VERBOSE1:crash_service.cc(147)] window handle is 00000000000205D0
+[14496:13888:0611/140422.723:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[14496:13888:0611/140422.723:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[14496:13888:0611/140422.723:ERROR:crash_service.cc(286)] could not start dumper
+[5272:4928:0611/140422.833:VERBOSE1:crash_service.cc(309)] client start. pid = 4460
+[13040:6776:0611/140422.891:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[13040:6776:0611/140422.900:VERBOSE1:crash_service.cc(147)] window handle is 000000000005059E
+[13040:6776:0611/140422.900:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[13040:6776:0611/140422.900:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[13040:6776:0611/140422.900:ERROR:crash_service.cc(286)] could not start dumper
+[5272:9724:0611/140434.462:VERBOSE1:crash_service.cc(318)] client end. pid = 11012
+[5272:9724:0611/140434.490:VERBOSE1:crash_service.cc(318)] client end. pid = 4460
+[5272:9724:0611/140435.215:VERBOSE1:crash_service.cc(318)] client end. pid = 5932
+[5272:4928:0611/140501.260:VERBOSE1:crash_service.cc(309)] client start. pid = 9704
+[13772:14960:0611/140501.286:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[13772:14960:0611/140501.290:VERBOSE1:crash_service.cc(147)] window handle is 00000000001603AC
+[13772:14960:0611/140501.290:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[13772:14960:0611/140501.290:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[13772:14960:0611/140501.290:ERROR:crash_service.cc(286)] could not start dumper
+[5272:4928:0611/140505.547:VERBOSE1:crash_service.cc(309)] client start. pid = 7360
+[10400:12108:0611/140505.606:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[10400:12108:0611/140505.642:VERBOSE1:crash_service.cc(147)] window handle is 00000000000501FC
+[10400:12108:0611/140505.642:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[10400:12108:0611/140505.642:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[10400:12108:0611/140505.646:ERROR:crash_service.cc(286)] could not start dumper
+[5272:4928:0611/140505.766:VERBOSE1:crash_service.cc(309)] client start. pid = 10232
+[13400:8252:0611/140505.871:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[13400:8252:0611/140505.915:VERBOSE1:crash_service.cc(147)] window handle is 00000000000205EE
+[13400:8252:0611/140505.915:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[13400:8252:0611/140505.915:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[13400:8252:0611/140505.915:ERROR:crash_service.cc(286)] could not start dumper
+[5272:9724:0611/140531.036:VERBOSE1:crash_service.cc(318)] client end. pid = 10232
+[5272:9724:0611/140531.040:VERBOSE1:crash_service.cc(318)] client end. pid = 7360
+[5272:9724:0611/140531.443:VERBOSE1:crash_service.cc(318)] client end. pid = 9704
+[5272:4928:0611/140927.348:VERBOSE1:crash_service.cc(309)] client start. pid = 6708
+[8412:14628:0611/140927.379:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[8412:14628:0611/140927.383:VERBOSE1:crash_service.cc(147)] window handle is 0000000000370704
+[8412:14628:0611/140927.383:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[8412:14628:0611/140927.383:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[8412:14628:0611/140927.383:ERROR:crash_service.cc(286)] could not start dumper
+[5272:9724:0611/140930.968:VERBOSE1:crash_service.cc(318)] client end. pid = 6708
+[5272:4928:0611/140932.265:VERBOSE1:crash_service.cc(309)] client start. pid = 13056
+[12520:11832:0611/140932.289:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[12520:11832:0611/140932.293:VERBOSE1:crash_service.cc(147)] window handle is 000000000012025A
+[12520:11832:0611/140932.293:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[12520:11832:0611/140932.293:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[12520:11832:0611/140932.294:ERROR:crash_service.cc(286)] could not start dumper
+[5272:4928:0611/140935.194:VERBOSE1:crash_service.cc(309)] client start. pid = 9368
+[8476:15328:0611/140935.236:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[8476:15328:0611/140935.254:VERBOSE1:crash_service.cc(147)] window handle is 00000000000305EC
+[8476:15328:0611/140935.254:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[8476:15328:0611/140935.254:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[8476:15328:0611/140935.254:ERROR:crash_service.cc(286)] could not start dumper
+[5272:4928:0611/140935.387:VERBOSE1:crash_service.cc(309)] client start. pid = 4440
+[4248:8224:0611/140935.415:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[4248:8224:0611/140935.432:VERBOSE1:crash_service.cc(147)] window handle is 00000000000405D0
+[4248:8224:0611/140935.432:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[4248:8224:0611/140935.432:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[4248:8224:0611/140935.432:ERROR:crash_service.cc(286)] could not start dumper
+[5272:9724:0611/142335.512:VERBOSE1:crash_service.cc(318)] client end. pid = 9368
+[5272:9724:0611/142335.516:VERBOSE1:crash_service.cc(318)] client end. pid = 4440
+[5272:9724:0611/142347.002:VERBOSE1:crash_service.cc(318)] client end. pid = 13056
+[5272:4928:0611/142349.408:VERBOSE1:crash_service.cc(309)] client start. pid = 11332
+[14132:12384:0611/142349.433:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[14132:12384:0611/142349.437:VERBOSE1:crash_service.cc(147)] window handle is 00000000000B05C6
+[14132:12384:0611/142349.437:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[14132:12384:0611/142349.437:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[14132:12384:0611/142349.439:ERROR:crash_service.cc(286)] could not start dumper
+[5272:9724:0611/142350.272:VERBOSE1:crash_service.cc(318)] client end. pid = 11332
+[5272:14744:0611/142508.275:VERBOSE1:crash_service.cc(473)] session ending..
+[10516:10624:0611/142559.000:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[10516:10624:0611/142559.031:VERBOSE1:crash_service.cc(147)] window handle is 0000000000010406
+[10516:10624:0611/142559.031:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[10516:10624:0611/142559.031:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[10516:10624:0611/142559.031:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[10516:9472:0611/142559.047:VERBOSE1:crash_service.cc(309)] client start. pid = 10372
+[10516:9472:0611/142611.068:VERBOSE1:crash_service.cc(309)] client start. pid = 12224
+[12924:1264:0611/142611.104:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[12924:1264:0611/142611.109:VERBOSE1:crash_service.cc(147)] window handle is 00000000000301B2
+[12924:1264:0611/142611.109:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[12924:1264:0611/142611.109:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[12924:1264:0611/142611.109:ERROR:crash_service.cc(286)] could not start dumper
+[10516:10624:0611/142812.552:VERBOSE1:crash_service.cc(473)] session ending..
+[10516:10624:0611/142812.552:VERBOSE1:crash_service.cc(478)] clients connected :2
+clients terminated :0
+dumps serviced :0
+dumps reported :0
+[10516:10624:0611/142812.552:VERBOSE1:crash_service_main.cc(100)] Session end. return code is 0
+[4348:11032:0611/142856.080:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[4348:11032:0611/142856.096:VERBOSE1:crash_service.cc(147)] window handle is 00000000000103CE
+[4348:11032:0611/142856.096:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[4348:11032:0611/142856.096:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[4348:11032:0611/142856.096:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[4348:8568:0611/142856.114:VERBOSE1:crash_service.cc(309)] client start. pid = 8592
+[4348:8568:0611/142907.772:VERBOSE1:crash_service.cc(309)] client start. pid = 3716
+[972:748:0611/142907.803:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[972:748:0611/142907.806:VERBOSE1:crash_service.cc(147)] window handle is 00000000000203FE
+[972:748:0611/142907.806:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[972:748:0611/142907.806:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[972:748:0611/142907.806:ERROR:crash_service.cc(286)] could not start dumper
+[4348:8568:0611/143117.192:VERBOSE1:crash_service.cc(309)] client start. pid = 3660
+[8148:8172:0611/143117.207:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[8148:8172:0611/143117.223:VERBOSE1:crash_service.cc(147)] window handle is 00000000000104DE
+[8148:8172:0611/143117.223:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[8148:8172:0611/143117.223:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[8148:8172:0611/143117.223:ERROR:crash_service.cc(286)] could not start dumper
+[4348:10324:0611/143117.616:VERBOSE1:crash_service.cc(318)] client end. pid = 3716
+[4348:8568:0611/143205.237:VERBOSE1:crash_service.cc(309)] client start. pid = 1604
+[11948:9184:0611/143205.262:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[11948:9184:0611/143205.265:VERBOSE1:crash_service.cc(147)] window handle is 00000000000204FC
+[11948:9184:0611/143205.266:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[11948:9184:0611/143205.266:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[11948:9184:0611/143205.266:ERROR:crash_service.cc(286)] could not start dumper
+[4348:8568:0611/143209.237:VERBOSE1:crash_service.cc(309)] client start. pid = 9224
+[7776:10836:0611/143209.323:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[7776:10836:0611/143209.333:VERBOSE1:crash_service.cc(147)] window handle is 000000000003028E
+[7776:10836:0611/143209.334:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[7776:10836:0611/143209.334:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[7776:10836:0611/143209.334:ERROR:crash_service.cc(286)] could not start dumper
+[4348:8568:0611/143209.485:VERBOSE1:crash_service.cc(309)] client start. pid = 6504
+[9836:12680:0611/143209.553:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[9836:12680:0611/143209.558:VERBOSE1:crash_service.cc(147)] window handle is 000000000005044E
+[9836:12680:0611/143209.558:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[9836:12680:0611/143209.558:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[9836:12680:0611/143209.559:ERROR:crash_service.cc(286)] could not start dumper
+[4348:10324:0611/144223.791:VERBOSE1:crash_service.cc(318)] client end. pid = 6504
+[4348:8568:0611/144224.731:VERBOSE1:crash_service.cc(309)] client start. pid = 7644
+[7904:11840:0611/144224.766:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[7904:11840:0611/144224.769:VERBOSE1:crash_service.cc(147)] window handle is 00000000000504F6
+[7904:11840:0611/144224.769:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[7904:11840:0611/144224.769:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[7904:11840:0611/144224.769:ERROR:crash_service.cc(286)] could not start dumper
+[4348:456:0611/151027.858:VERBOSE1:crash_service.cc(318)] client end. pid = 9224
+[4348:456:0611/151027.860:VERBOSE1:crash_service.cc(318)] client end. pid = 7644
+[4348:456:0611/151027.986:VERBOSE1:crash_service.cc(318)] client end. pid = 1604
+[4348:11032:0611/195100.965:VERBOSE1:crash_service.cc(473)] session ending..
+[11160:10816:0612/081904.327:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[11160:10816:0612/081904.335:VERBOSE1:crash_service.cc(147)] window handle is 0000000000010450
+[11160:10816:0612/081904.335:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[11160:10816:0612/081904.335:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[11160:10816:0612/081904.335:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[11160:10292:0612/081904.357:VERBOSE1:crash_service.cc(309)] client start. pid = 5484
+[11160:10292:0612/081917.019:VERBOSE1:crash_service.cc(309)] client start. pid = 5980
+[7304:11356:0612/081917.050:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[7304:11356:0612/081917.052:VERBOSE1:crash_service.cc(147)] window handle is 0000000000020474
+[7304:11356:0612/081917.053:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[7304:11356:0612/081917.053:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[7304:11356:0612/081917.053:ERROR:crash_service.cc(286)] could not start dumper
+[11160:10292:0612/081921.759:VERBOSE1:crash_service.cc(309)] client start. pid = 11144
+[10360:1676:0612/081921.783:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[10360:1676:0612/081921.789:VERBOSE1:crash_service.cc(147)] window handle is 000000000002030C
+[10360:1676:0612/081921.789:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[10360:1676:0612/081921.789:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[10360:1676:0612/081921.789:ERROR:crash_service.cc(286)] could not start dumper
+[11160:1072:0612/081922.261:VERBOSE1:crash_service.cc(318)] client end. pid = 5980
+[13844:9300:0612/095629.592:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[13844:9300:0612/095629.608:VERBOSE1:crash_service.cc(147)] window handle is 000000000001045A
+[13844:9300:0612/095629.608:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[13844:9300:0612/095629.608:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[13844:9300:0612/095629.608:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[13844:2552:0612/095629.608:VERBOSE1:crash_service.cc(309)] client start. pid = 7512
+[13844:2552:0612/095632.443:VERBOSE1:crash_service.cc(309)] client start. pid = 5080
+[12748:11988:0612/095632.488:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[12748:11988:0612/095632.494:VERBOSE1:crash_service.cc(147)] window handle is 0000000000030474
+[12748:11988:0612/095632.495:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[12748:11988:0612/095632.495:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[12748:11988:0612/095632.495:ERROR:crash_service.cc(286)] could not start dumper
+[6472:6488:0613/090454.754:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[6472:6488:0613/090454.754:VERBOSE1:crash_service.cc(147)] window handle is 0000000000020316
+[6472:6488:0613/090454.754:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[6472:6488:0613/090454.754:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[6472:6488:0613/090454.754:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[6472:10572:0613/090454.754:VERBOSE1:crash_service.cc(309)] client start. pid = 10828
+[6472:10572:0613/090457.775:VERBOSE1:crash_service.cc(309)] client start. pid = 10816
+[8460:980:0613/090457.799:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[8460:980:0613/090457.801:VERBOSE1:crash_service.cc(147)] window handle is 00000000000202D8
+[8460:980:0613/090457.801:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[8460:980:0613/090457.801:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[8460:980:0613/090457.801:ERROR:crash_service.cc(286)] could not start dumper
+[9608:14220:0614/075817.472:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[9608:14220:0614/075817.480:VERBOSE1:crash_service.cc(147)] window handle is 000000000001044C
+[9608:14220:0614/075817.480:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[9608:14220:0614/075817.480:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[9608:14220:0614/075817.480:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[9608:1900:0614/075817.486:VERBOSE1:crash_service.cc(309)] client start. pid = 11732
+[9608:1900:0614/075825.445:VERBOSE1:crash_service.cc(309)] client start. pid = 11160
+[9952:7436:0614/075825.492:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[9952:7436:0614/075825.528:VERBOSE1:crash_service.cc(147)] window handle is 0000000000020540
+[9952:7436:0614/075825.528:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[9952:7436:0614/075825.528:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[9952:7436:0614/075825.529:ERROR:crash_service.cc(286)] could not start dumper
+[14588:11096:0615/155405.393:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[14588:11096:0615/155405.440:VERBOSE1:crash_service.cc(147)] window handle is 00000000000103CC
+[14588:11096:0615/155405.440:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[14588:11096:0615/155405.440:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[14588:11096:0615/155405.440:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[14588:5492:0615/155405.440:VERBOSE1:crash_service.cc(309)] client start. pid = 13568
+[14588:5492:0615/155419.209:VERBOSE1:crash_service.cc(309)] client start. pid = 13012
+[11732:2112:0615/155419.258:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[11732:2112:0615/155419.264:VERBOSE1:crash_service.cc(147)] window handle is 0000000000030506
+[11732:2112:0615/155419.265:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[11732:2112:0615/155419.265:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[11732:2112:0615/155419.265:ERROR:crash_service.cc(286)] could not start dumper
+[14588:5492:0615/155454.806:VERBOSE1:crash_service.cc(309)] client start. pid = 360
+[13084:1108:0615/155454.827:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[13084:1108:0615/155454.830:VERBOSE1:crash_service.cc(147)] window handle is 0000000000050480
+[13084:1108:0615/155454.830:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[13084:1108:0615/155454.830:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.2&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[13084:1108:0615/155454.830:ERROR:crash_service.cc(286)] could not start dumper
+[14588:14408:0615/155455.225:VERBOSE1:crash_service.cc(318)] client end. pid = 13012
+[12144:4556:0616/105120.369:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.3&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[12144:4556:0616/105120.387:VERBOSE1:crash_service.cc(147)] window handle is 000000000001041A
+[12144:4556:0616/105120.387:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[12144:4556:0616/105120.387:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.3&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[12144:4556:0616/105120.387:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[12144:13840:0616/105120.389:VERBOSE1:crash_service.cc(309)] client start. pid = 12792
+[12144:13840:0616/105123.047:VERBOSE1:crash_service.cc(309)] client start. pid = 6984
+[8128:1476:0616/105123.076:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.3&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[8128:1476:0616/105123.084:VERBOSE1:crash_service.cc(147)] window handle is 00000000000302E4
+[8128:1476:0616/105123.084:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[8128:1476:0616/105123.084:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.3&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[8128:1476:0616/105123.085:ERROR:crash_service.cc(286)] could not start dumper
+[8612:13032:0616/111338.373:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.3&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[8612:13032:0616/111338.383:VERBOSE1:crash_service.cc(147)] window handle is 0000000000010408
+[8612:13032:0616/111338.383:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[8612:13032:0616/111338.383:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.3&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[8612:13032:0616/111338.383:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[8612:2836:0616/111338.383:VERBOSE1:crash_service.cc(309)] client start. pid = 11760
+[8612:2836:0616/111341.610:VERBOSE1:crash_service.cc(309)] client start. pid = 12324
+[10044:9952:0616/111341.866:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.3&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[10044:9952:0616/111341.965:VERBOSE1:crash_service.cc(147)] window handle is 0000000000020474
+[10044:9952:0616/111341.965:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[10044:9952:0616/111341.965:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.3&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[10044:9952:0616/111341.965:ERROR:crash_service.cc(286)] could not start dumper
+[1388:6556:0617/121430.349:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.3&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[1388:6556:0617/121430.361:VERBOSE1:crash_service.cc(147)] window handle is 000000000001046A
+[1388:6556:0617/121430.361:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[1388:6556:0617/121430.361:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.3&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[1388:6556:0617/121430.361:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[1388:8824:0617/121430.369:VERBOSE1:crash_service.cc(309)] client start. pid = 8288
+[1388:8824:0617/121433.983:VERBOSE1:crash_service.cc(309)] client start. pid = 14188
+[8116:15224:0617/121434.022:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.3&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[8116:15224:0617/121434.034:VERBOSE1:crash_service.cc(147)] window handle is 00000000000203D8
+[8116:15224:0617/121434.034:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[8116:15224:0617/121434.034:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.3&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[8116:15224:0617/121434.035:ERROR:crash_service.cc(286)] could not start dumper
+[10016:2668:0617/125311.454:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.3&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[10016:2668:0617/125311.457:VERBOSE1:crash_service.cc(147)] window handle is 00000000000103C8
+[10016:2668:0617/125311.458:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[10016:2668:0617/125311.458:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.3&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[10016:2668:0617/125311.458:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[10016:7328:0617/125311.459:VERBOSE1:crash_service.cc(309)] client start. pid = 10984
+[10016:7328:0617/125314.525:VERBOSE1:crash_service.cc(309)] client start. pid = 11336
+[8176:8276:0617/125314.623:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.3&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[8176:8276:0617/125314.652:VERBOSE1:crash_service.cc(147)] window handle is 0000000000030388
+[8176:8276:0617/125314.652:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[8176:8276:0617/125314.652:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.3&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[8176:8276:0617/125314.652:ERROR:crash_service.cc(286)] could not start dumper
+[12492:10776:0617/173759.089:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.3&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[12492:10776:0617/173759.092:VERBOSE1:crash_service.cc(147)] window handle is 0000000000010458
+[12492:10776:0617/173759.092:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[12492:10776:0617/173759.092:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.3&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[12492:10776:0617/173759.092:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[12492:2928:0617/173759.092:VERBOSE1:crash_service.cc(309)] client start. pid = 464
+[12492:2928:0617/173802.699:VERBOSE1:crash_service.cc(309)] client start. pid = 13556
+[2492:7136:0617/173802.750:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.3&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[2492:7136:0617/173802.770:VERBOSE1:crash_service.cc(147)] window handle is 0000000000020294
+[2492:7136:0617/173802.770:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[2492:7136:0617/173802.770:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.3&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[2492:7136:0617/173802.770:ERROR:crash_service.cc(286)] could not start dumper
+[1768:7688:0618/082708.445:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.3&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[1768:7688:0618/082708.445:VERBOSE1:crash_service.cc(147)] window handle is 0000000000020312
+[1768:7688:0618/082708.445:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[1768:7688:0618/082708.445:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.3&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[1768:7688:0618/082708.445:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[1768:2340:0618/082708.445:VERBOSE1:crash_service.cc(309)] client start. pid = 13816
+[1768:2340:0618/082711.409:VERBOSE1:crash_service.cc(309)] client start. pid = 104
+[10684:6976:0618/082711.469:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.3&channel=prod --application-name=Slack "--crashes-directory=C:\Users\38063\AppData\Local\Temp\Slack Crashes" --v=1]
+[10684:6976:0618/082711.505:VERBOSE1:crash_service.cc(147)] window handle is 000000000002040E
+[10684:6976:0618/082711.505:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Slack Crash Service
+dumps at C:\Users\38063\AppData\Local\Temp\Slack Crashes
+[10684:6976:0618/082711.505:VERBOSE1:crash_service.cc(279)] checkpoint is C:\Users\38063\AppData\Local\Temp\Slack Crashes\crash_checkpoint.txt
+server is https://slack.com/apps/breakpad?instanceUid=937ad1c0-3687-5b6d-b611-4a7466d8e0d6&version=3.4.3&channel=prod
+maximum 128 reports/day
+reporter is electron-crash-service
+[10684:6976:0618/082711.505:ERROR:crash_service.cc(286)] could not start dumper

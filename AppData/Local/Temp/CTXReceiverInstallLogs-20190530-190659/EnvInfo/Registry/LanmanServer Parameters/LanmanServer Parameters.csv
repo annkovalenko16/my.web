@@ -1,0 +1,12 @@
+"RegistryPath","Path","Name","Kind","Value"
+HiveKeyLocalMachine,System\CurrentControlSet\Services\LanmanServer\Parameters,EnableAuthenticateUserSharing,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Services\LanmanServer\Parameters,ServiceDll,ExpandString,C:\WINDOWS\system32\srvsvc.dll
+HiveKeyLocalMachine,System\CurrentControlSet\Services\LanmanServer\Parameters,ServiceDllUnloadOnStop,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Services\LanmanServer\Parameters,restrictnullsessaccess,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Services\LanmanServer\Parameters,autodisconnect,DWord,"0000000F"
+HiveKeyLocalMachine,System\CurrentControlSet\Services\LanmanServer\Parameters,enableforcedlogoff,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Services\LanmanServer\Parameters,enablesecuritysignature,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Services\LanmanServer\Parameters,requiresecuritysignature,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Services\LanmanServer\Parameters,AdjustedNullSessionPipes,DWord,"00000003"
+HiveKeyLocalMachine,System\CurrentControlSet\Services\LanmanServer\Parameters,NullSessionPipes,MultiString,
+HiveKeyLocalMachine,System\CurrentControlSet\Services\LanmanServer\Parameters,Guid,Binary,"BDA85E3AE703E547B2A32B5D9F0CB1FE"

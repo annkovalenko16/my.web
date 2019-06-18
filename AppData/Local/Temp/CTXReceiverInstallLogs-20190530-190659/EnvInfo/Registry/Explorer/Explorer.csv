@@ -1,0 +1,5 @@
+"RegistryPath","Path","Name","Kind","Value"
+HiveKeyLocalMachine,Software\Microsoft\Windows\CurrentVersion\Policies\Explorer,ForceActiveDesktopOn,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Windows\CurrentVersion\Policies\Explorer,NoActiveDesktop,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows\CurrentVersion\Policies\Explorer,NoActiveDesktopChanges,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows\CurrentVersion\Policies\Explorer,NoRecentDocsHistory,DWord,"00000000"

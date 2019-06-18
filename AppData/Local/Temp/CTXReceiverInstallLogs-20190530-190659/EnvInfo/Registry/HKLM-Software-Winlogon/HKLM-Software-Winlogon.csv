@@ -1,0 +1,142 @@
+"RegistryPath","Path","Name","Kind","Value"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon,DefaultDomainName,String,
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon,DefaultUserName,String,
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon,EnableSIHostIntegration,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon,PreCreateKnownFolders,String,{A520A1A4-1780-4FF6-BD18-167343C5AF16}
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon,Shell,String,explorer.exe
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon,ShellCritical,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon,SiHostCritical,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon,SiHostReadyTimeOut,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon,SiHostRestartCountLimit,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon,SiHostRestartTimeGap,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{0ACDD40C-75AC-47ab-BAA0-BF6DE7E7FE63},,String,Wireless Group Policy
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{0ACDD40C-75AC-47ab-BAA0-BF6DE7E7FE63},DisplayName,ExpandString,"@wlgpclnt.dll,-100"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{0ACDD40C-75AC-47ab-BAA0-BF6DE7E7FE63},DllName,ExpandString,wlgpclnt.dll
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{0ACDD40C-75AC-47ab-BAA0-BF6DE7E7FE63},GenerateGroupPolicy,String,GenerateWLANPolicy
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{0ACDD40C-75AC-47ab-BAA0-BF6DE7E7FE63},NoGPOListChanges,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{0ACDD40C-75AC-47ab-BAA0-BF6DE7E7FE63},NoUserPolicy,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{0ACDD40C-75AC-47ab-BAA0-BF6DE7E7FE63},ProcessGroupPolicyEx,String,ProcessWLANPolicyEx
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{25537BA6-77A8-11D2-9B6C-0000F8080861},,String,Folder Redirection
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{25537BA6-77A8-11D2-9B6C-0000F8080861},DisplayName,ExpandString,"@fdeploy.dll,-261"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{25537BA6-77A8-11D2-9B6C-0000F8080861},DllName,ExpandString,fdeploy.dll
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{25537BA6-77A8-11D2-9B6C-0000F8080861},EventSources,MultiString,"(Folder Redirection,Application)"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{25537BA6-77A8-11D2-9B6C-0000F8080861},GenerateGroupPolicy,String,GenerateGroupPolicy
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{25537BA6-77A8-11D2-9B6C-0000F8080861},NoBackgroundPolicy,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{25537BA6-77A8-11D2-9B6C-0000F8080861},NoGPOListChanges,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{25537BA6-77A8-11D2-9B6C-0000F8080861},NoMachinePolicy,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{25537BA6-77A8-11D2-9B6C-0000F8080861},NoSlowLink,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{25537BA6-77A8-11D2-9B6C-0000F8080861},PerUserLocalSettings,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{25537BA6-77A8-11D2-9B6C-0000F8080861},ProcessGroupPolicyEx,String,ProcessGroupPolicyEx
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{3610eda5-77ef-11d2-8dc5-00c04fa31a66},,String,Microsoft Disk Quota
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{3610eda5-77ef-11d2-8dc5-00c04fa31a66},DisplayName,ExpandString,"@C:\WINDOWS\System32\dskquota.dll,-100"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{3610eda5-77ef-11d2-8dc5-00c04fa31a66},DllName,ExpandString,C:\WINDOWS\System32\dskquota.dll
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{3610eda5-77ef-11d2-8dc5-00c04fa31a66},EnableAsynchronousProcessing,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{3610eda5-77ef-11d2-8dc5-00c04fa31a66},NoBackgroundPolicy,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{3610eda5-77ef-11d2-8dc5-00c04fa31a66},NoGPOListChanges,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{3610eda5-77ef-11d2-8dc5-00c04fa31a66},NoMachinePolicy,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{3610eda5-77ef-11d2-8dc5-00c04fa31a66},NoSlowLink,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{3610eda5-77ef-11d2-8dc5-00c04fa31a66},NoUserPolicy,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{3610eda5-77ef-11d2-8dc5-00c04fa31a66},PerUserLocalSettings,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{3610eda5-77ef-11d2-8dc5-00c04fa31a66},ProcessGroupPolicy,String,ProcessGroupPolicy
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{3610eda5-77ef-11d2-8dc5-00c04fa31a66},RequiresSuccessfulRegistry,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{426031c0-0b47-4852-b0ca-ac3d37bfcb39},,String,QoS Packet Scheduler
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{426031c0-0b47-4852-b0ca-ac3d37bfcb39},DisplayName,ExpandString,"@gptext.dll,-201"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{426031c0-0b47-4852-b0ca-ac3d37bfcb39},DllName,ExpandString,gptext.dll
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{426031c0-0b47-4852-b0ca-ac3d37bfcb39},NoGPOListChanges,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{426031c0-0b47-4852-b0ca-ac3d37bfcb39},NoUserPolicy,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{426031c0-0b47-4852-b0ca-ac3d37bfcb39},ProcessGroupPolicy,String,ProcessPSCHEDPolicy
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{4CFB60C1-FAA6-47f1-89AA-0B18730C9FD3},,String,Internet Explorer Zonemapping
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{4CFB60C1-FAA6-47f1-89AA-0B18730C9FD3},DisplayName,String,"@C:\Windows\SysWOW64\iedkcs32.dll,-3051"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{4CFB60C1-FAA6-47f1-89AA-0B18730C9FD3},DllName,String,C:\Windows\SysWOW64\iedkcs32.dll
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{4CFB60C1-FAA6-47f1-89AA-0B18730C9FD3},NoGPOListChanges,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{4CFB60C1-FAA6-47f1-89AA-0B18730C9FD3},ProcessGroupPolicy,String,ProcessGroupPolicyForZoneMap
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{4CFB60C1-FAA6-47f1-89AA-0B18730C9FD3},RequiresSuccessfulRegistry,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{7909AD9E-09EE-4247-BAB9-7029D5F0A278},,String,MDM Policy
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{7909AD9E-09EE-4247-BAB9-7029D5F0A278},DllName,ExpandString,dmenrollengine.dll
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{7909AD9E-09EE-4247-BAB9-7029D5F0A278},ProcessGroupPolicy,String,AutoEnrollMDM
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{7933F41E-56F8-41d6-A31C-4148A711EE93},,String,Windows Search Group Policy Extension
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{7933F41E-56F8-41d6-A31C-4148A711EE93},DllName,ExpandString,C:\WINDOWS\System32\srchadmin.dll
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{7933F41E-56F8-41d6-A31C-4148A711EE93},EnableAsynchronousProcessing,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{7933F41E-56F8-41d6-A31C-4148A711EE93},NoBackgroundPolicy,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{7933F41E-56F8-41d6-A31C-4148A711EE93},NoGPOListChanges,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{7933F41E-56F8-41d6-A31C-4148A711EE93},NoMachinePolicy,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{7933F41E-56F8-41d6-A31C-4148A711EE93},NoSlowLink,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{7933F41E-56F8-41d6-A31C-4148A711EE93},NoUserPolicy,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{7933F41E-56F8-41d6-A31C-4148A711EE93},PerUserLocalSettings,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{7933F41E-56F8-41d6-A31C-4148A711EE93},ProcessGroupPolicy,String,ProcessGroupPolicy
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{7933F41E-56F8-41d6-A31C-4148A711EE93},RequiresSuccessfulRegistry,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{7B849a69-220F-451E-B3FE-2CB811AF94AE},,String,Internet Explorer User Accelerators
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{7B849a69-220F-451E-B3FE-2CB811AF94AE},DisplayName,String,"@C:\Windows\SysWOW64\iedkcs32.dll,-3051"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{7B849a69-220F-451E-B3FE-2CB811AF94AE},DllName,String,C:\Windows\SysWOW64\iedkcs32.dll
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{7B849a69-220F-451E-B3FE-2CB811AF94AE},NoGPOListChanges,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{7B849a69-220F-451E-B3FE-2CB811AF94AE},ProcessGroupPolicy,String,ProcessGroupPolicyForActivities
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{7B849a69-220F-451E-B3FE-2CB811AF94AE},ProcessGroupPolicyEx,String,ProcessGroupPolicyForActivitiesEx
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{7B849a69-220F-451E-B3FE-2CB811AF94AE},RequiresSuccessfulRegistry,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{827D319E-6EAC-11D2-A4EA-00C04F79F83A},,String,Security
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{827D319E-6EAC-11D2-A4EA-00C04F79F83A},DisplayName,ExpandString,"@(runtime.system32)\scecli.dll,-7650"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{827D319E-6EAC-11D2-A4EA-00C04F79F83A},DllName,ExpandString,scecli.dll
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{827D319E-6EAC-11D2-A4EA-00C04F79F83A},EnableAsynchronousProcessing,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{827D319E-6EAC-11D2-A4EA-00C04F79F83A},ExtensionDebugLevel,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{827D319E-6EAC-11D2-A4EA-00C04F79F83A},ExtensionRsopPlanningDebugLevel,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{827D319E-6EAC-11D2-A4EA-00C04F79F83A},GenerateGroupPolicy,String,SceGenerateGroupPolicy
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{827D319E-6EAC-11D2-A4EA-00C04F79F83A},MaxNoGPOListChangesInterval,DWord,"000003C0"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{827D319E-6EAC-11D2-A4EA-00C04F79F83A},NoGPOListChanges,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{827D319E-6EAC-11D2-A4EA-00C04F79F83A},NoUserPolicy,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{827D319E-6EAC-11D2-A4EA-00C04F79F83A},ProcessGroupPolicy,String,SceProcessSecurityPolicyGPO
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{827D319E-6EAC-11D2-A4EA-00C04F79F83A},ProcessGroupPolicyEx,String,SceProcessSecurityPolicyGPOEx
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{8A28E2C5-8D06-49A4-A08C-632DAA493E17},,String,Deployed Printer Connections
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{8A28E2C5-8D06-49A4-A08C-632DAA493E17},DisplayName,ExpandString,"@C:\WINDOWS\system32\gpprnext.dll,-1"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{8A28E2C5-8D06-49A4-A08C-632DAA493E17},DllName,ExpandString,C:\WINDOWS\system32\gpprnext.dll
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{8A28E2C5-8D06-49A4-A08C-632DAA493E17},EnableAsynchronousProcessing,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{8A28E2C5-8D06-49A4-A08C-632DAA493E17},ExtensionEventSource,String,
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{8A28E2C5-8D06-49A4-A08C-632DAA493E17},GenerateGroupPolicy,String,PrinterGenerateGroupPolicy
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{8A28E2C5-8D06-49A4-A08C-632DAA493E17},MaxNoGPOListChangesInterval,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{8A28E2C5-8D06-49A4-A08C-632DAA493E17},NoBackgroundPolicy,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{8A28E2C5-8D06-49A4-A08C-632DAA493E17},NoGPOListChanges,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{8A28E2C5-8D06-49A4-A08C-632DAA493E17},NoMachinePolicy,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{8A28E2C5-8D06-49A4-A08C-632DAA493E17},NoSlowLink,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{8A28E2C5-8D06-49A4-A08C-632DAA493E17},NotifyLinkTransition,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{8A28E2C5-8D06-49A4-A08C-632DAA493E17},NoUserPolicy,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{8A28E2C5-8D06-49A4-A08C-632DAA493E17},PerUserLocalSettings,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{8A28E2C5-8D06-49A4-A08C-632DAA493E17},ProcessGroupPolicy,String,PrinterProcessGroupPolicy
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{8A28E2C5-8D06-49A4-A08C-632DAA493E17},ProcessGroupPolicyEx,String,PrinterProcessGroupPolicyEx
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{8A28E2C5-8D06-49A4-A08C-632DAA493E17},RequiresSuccessfulRegistry,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{B587E2B1-4D59-4e7e-AED9-22B9DF11D053},,String,802.3 Group Policy
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{B587E2B1-4D59-4e7e-AED9-22B9DF11D053},DisplayName,ExpandString,"@dot3gpclnt.dll,-100"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{B587E2B1-4D59-4e7e-AED9-22B9DF11D053},DllName,ExpandString,dot3gpclnt.dll
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{B587E2B1-4D59-4e7e-AED9-22B9DF11D053},GenerateGroupPolicy,String,GenerateLANPolicy
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{B587E2B1-4D59-4e7e-AED9-22B9DF11D053},NoGPOListChanges,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{B587E2B1-4D59-4e7e-AED9-22B9DF11D053},NoUserPolicy,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{B587E2B1-4D59-4e7e-AED9-22B9DF11D053},ProcessGroupPolicyEx,String,ProcessLANPolicyEx
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{cdeafc3d-948d-49dd-ab12-e578ba4af7aa},,String,TCPIP
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{cdeafc3d-948d-49dd-ab12-e578ba4af7aa},DisplayName,ExpandString,"@gptext.dll,-204"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{cdeafc3d-948d-49dd-ab12-e578ba4af7aa},DllName,ExpandString,gptext.dll
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{cdeafc3d-948d-49dd-ab12-e578ba4af7aa},NoGPOListChanges,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{cdeafc3d-948d-49dd-ab12-e578ba4af7aa},NoUserPolicy,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{cdeafc3d-948d-49dd-ab12-e578ba4af7aa},ProcessGroupPolicy,String,ProcessTCPIPPolicy
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{cdeafc3d-948d-49dd-ab12-e578ba4af7aa},RequiresSuccessfulRegistry,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{CF7639F3-ABA2-41DB-97F2-81E2C5DBFC5D},,String,Internet Explorer Machine Accelerators
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{CF7639F3-ABA2-41DB-97F2-81E2C5DBFC5D},DisplayName,String,"@C:\Windows\SysWOW64\iedkcs32.dll,-3051"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{CF7639F3-ABA2-41DB-97F2-81E2C5DBFC5D},DllName,String,C:\Windows\SysWOW64\iedkcs32.dll
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{CF7639F3-ABA2-41DB-97F2-81E2C5DBFC5D},NoGPOListChanges,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{CF7639F3-ABA2-41DB-97F2-81E2C5DBFC5D},ProcessGroupPolicy,String,ProcessGroupPolicyForActivities
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{CF7639F3-ABA2-41DB-97F2-81E2C5DBFC5D},ProcessGroupPolicyEx,String,ProcessGroupPolicyForActivitiesEx
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{CF7639F3-ABA2-41DB-97F2-81E2C5DBFC5D},RequiresSuccessfulRegistry,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{e437bc1c-aa7d-11d2-a382-00c04f991e27},,String,IP Security
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{e437bc1c-aa7d-11d2-a382-00c04f991e27},DllName,ExpandString,C:\WINDOWS\System32\polstore.dll
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{e437bc1c-aa7d-11d2-a382-00c04f991e27},GenerateGroupPolicy,String,GenerateIPSECPolicy
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{e437bc1c-aa7d-11d2-a382-00c04f991e27},NoGPOListChanges,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{e437bc1c-aa7d-11d2-a382-00c04f991e27},NoUserPolicy,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{e437bc1c-aa7d-11d2-a382-00c04f991e27},ProcessGroupPolicyEx,String,ProcessIPSECPolicyEx
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{FB2CA36D-0B40-4307-821B-A13B252DE56C},,String,Enterprise QoS
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{FB2CA36D-0B40-4307-821B-A13B252DE56C},DisplayName,ExpandString,"@gptext.dll,-203"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{FB2CA36D-0B40-4307-821B-A13B252DE56C},DllName,ExpandString,gptext.dll
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{FB2CA36D-0B40-4307-821B-A13B252DE56C},ProcessGroupPolicy,String,ProcessEQoSPolicy
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{FB2CA36D-0B40-4307-821B-A13B252DE56C},RequiresSuccessfulRegistry,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{fbf687e6-f063-4d9f-9f4f-fd9a26acdd5f},,String,CP
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{fbf687e6-f063-4d9f-9f4f-fd9a26acdd5f},DisplayName,ExpandString,"@gptext.dll,-205"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{fbf687e6-f063-4d9f-9f4f-fd9a26acdd5f},DllName,ExpandString,gptext.dll
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{fbf687e6-f063-4d9f-9f4f-fd9a26acdd5f},NoGPOListChanges,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{fbf687e6-f063-4d9f-9f4f-fd9a26acdd5f},NoUserPolicy,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{fbf687e6-f063-4d9f-9f4f-fd9a26acdd5f},ProcessGroupPolicy,String,ProcessConnectivityPlatformPolicy
+HiveKeyLocalMachine,Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{fbf687e6-f063-4d9f-9f4f-fd9a26acdd5f},RequiresSuccessfulRegistry,DWord,"00000001"

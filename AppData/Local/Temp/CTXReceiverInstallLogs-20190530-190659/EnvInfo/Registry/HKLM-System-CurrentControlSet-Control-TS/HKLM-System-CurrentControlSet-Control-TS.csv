@@ -1,0 +1,278 @@
+"RegistryPath","Path","Name","Kind","Value"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server,AllowRemoteRPC,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server,DelayConMgrTimeout,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server,DeleteTempDirsOnExit,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server,fDenyTSConnections,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server,fSingleSessionPerUser,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server,NotificationTimeOut,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server,PerSessionTempDir,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server,ProductVersion,String,5.1
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server,RCDependentServices,MultiString,"CertPropSvc,SessionEnv"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server,SnapshotMonitors,String,1
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server,StartRCM,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server,TSUserEnabled,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server,InstanceID,String,4dc88eb1-27ed-404b-82db-4489a05
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server,GlassSessionId,DWord,"00000002"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\AddIns\Clip Redirector,Name,String,RDPClip
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\AddIns\Clip Redirector,Type,DWord,"00000003"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\AddIns\DND Redirector,Name,String,RDPDND
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\AddIns\DND Redirector,Type,DWord,"00000003"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\AddIns\Dynamic VC,Type,DWord,"FFFFFFFF"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\ConnectionHandler\0f0a4bf8-8362-435d-938c-222a518a8b78,CLSID,String,2be8bdbb-be09-499d-9a4b-4637e09ae00b
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\ConnectionHandler\0f0a4bf8-8362-435d-938c-222a518a8b78,Description,String,Default Connection Handler
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\ConnectionHandler\0f0a4bf8-8362-435d-938c-222a518a8b78,fAcceptConnection,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\ConnectionHandler\0f0a4bf8-8362-435d-938c-222a518a8b78,Name,String,Default Connection Handler
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\ConnectionHandler\49e52265-9c80-4b84-a9d5-7ecf311036ac,CLSID,String,13ea11a6-8e1a-40ce-9ea9-03e82b3ed5d9
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\ConnectionHandler\49e52265-9c80-4b84-a9d5-7ecf311036ac,Description,String,Hybrid Connection Handler
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\ConnectionHandler\49e52265-9c80-4b84-a9d5-7ecf311036ac,fAcceptConnection,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\ConnectionHandler\49e52265-9c80-4b84-a9d5-7ecf311036ac,Name,String,Hybrid Connection Handler
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\ConnectionHandler\88f5767d-d13f-404d-a348-8b8e030294a9,CLSID,String,2be8bdbb-be09-499d-9a4b-4637e09ae00b
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\ConnectionHandler\88f5767d-d13f-404d-a348-8b8e030294a9,Description,String,Default Connection Handler
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\ConnectionHandler\88f5767d-d13f-404d-a348-8b8e030294a9,fAcceptConnection,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\ConnectionHandler\88f5767d-d13f-404d-a348-8b8e030294a9,Name,String,Default Connection Handler
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,Callback,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,CallbackNumber,String,
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,Domain,String,
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,fInheritAutoLogon,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,fInheritCallback,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,fInheritCallbackNumber,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,fInheritInitialProgram,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,fInheritMaxDisconnectionTime,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,fInheritMaxIdleTime,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,fInheritMaxSessionTime,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,fInheritReconnectSame,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,fInheritResetBroken,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,fInheritShadow,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,fLogonDisabled,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,fPromptForPassword,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,fReconnectSame,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,fResetBroken,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,InitialProgram,String,
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,KeyboardLayout,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,MaxConnectionTime,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,MaxDisconnectionTime,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,MaxIdleTime,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,NWLogonServer,String,
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,Password,String,
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,Shadow,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,UserName,String,
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,WorkDirectory,String,
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\KeyboardType Mapping\JPN,00000000,String,kbd101.dll
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\KeyboardType Mapping\JPN,000000000017,String,kbdlk41a.dll
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\KeyboardType Mapping\JPN,00000001,String,kbdax2.dll
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\KeyboardType Mapping\JPN,00000002,String,kbd106.dll
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\KeyboardType Mapping\JPN,000000020015,String,kbdnecAT.dll
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\KeyboardType Mapping\JPN,000000020017,String,kbdlk41j.dll
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\KeyboardType Mapping\JPN,00000003,String,kbdibm02.dll
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\KeyboardType Mapping\JPN,00000D01,String,kbdnecNT.dll
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\KeyboardType Mapping\JPN,00000D04,String,kbdnecNT.dll
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\KeyboardType Mapping\JPN,00010002,String,kbd106n.dll
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\KeyboardType Mapping\JPN,00010D01,String,kbdnec95.dll
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\KeyboardType Mapping\JPN,00010D04,String,kbdnec95.dll
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\KeyboardType Mapping\JPN,00020002,String,f3ahvoas.dll
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\KeyboardType Mapping\JPN,00020D01,String,kbdnecAT.dll
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\KeyboardType Mapping\JPN,00020D04,String,kbdnecAT.dll
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\KeyboardType Mapping\KOR,00000003,String,kbd101a.dll
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\KeyboardType Mapping\KOR,00000004,String,kbd101b.dll
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\KeyboardType Mapping\KOR,00000005,String,kbd101c.dll
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\KeyboardType Mapping\KOR,00000006,String,kbd103.dll
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\RCM\Licensing Core,LicensingMode,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\SysProcs,clipsrv.exe,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\SysProcs,conime.exe,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\SysProcs,ctfmon.exe,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\SysProcs,dwm.exe,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\SysProcs,imepadsv.exe,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\SysProcs,lmsvcs.exe,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\SysProcs,MsgSvc.exe,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\SysProcs,MSOSYNC.exe,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\SysProcs,MSOUC.exe,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\SysProcs,nddeagnt.exe,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\SysProcs,netdde.exe,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\SysProcs,NETSTRS.EXE,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\SysProcs,os2srv.exe,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\SysProcs,proquota.exe,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\SysProcs,rdpclip.exe,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\SysProcs,rdpinput.exe,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\SysProcs,screg.exe,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\SysProcs,ServerManagerLauncher.exe,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\SysProcs,TaskEng.exe,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\SysProcs,Taskhost.exe,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\SysProcs,Taskhostex.exe,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\SysProcs,Tlsbln.exe,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\SysProcs,wfshell.exe,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\SysProcs,win.com,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\TerminalTypes\0f0a4bf8-8362-435d-938c-222a518a8b78,Name,String,RDP Regular Desktop Terminal
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\TerminalTypes\0f0a4bf8-8362-435d-938c-222a518a8b78,SessionSource,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\TerminalTypes\0f0a4bf8-8362-435d-938c-222a518a8b78\ReconCompat,49e52265-9c80-4b84-a9d5-7ecf311036ac,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\TerminalTypes\0f0a4bf8-8362-435d-938c-222a518a8b78\ReconCompat,88f5767d-d13f-404d-a348-8b8e030294a9,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\TerminalTypes\49e52265-9c80-4b84-a9d5-7ecf311036ac,Name,String,RDP Hybrid Terminal
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\TerminalTypes\49e52265-9c80-4b84-a9d5-7ecf311036ac,SessionSource,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\TerminalTypes\49e52265-9c80-4b84-a9d5-7ecf311036ac\ReconCompat,0f0a4bf8-8362-435d-938c-222a518a8b78,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\TerminalTypes\49e52265-9c80-4b84-a9d5-7ecf311036ac\ReconCompat,88f5767d-d13f-404d-a348-8b8e030294a9,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\TerminalTypes\88f5767d-d13f-404d-a348-8b8e030294a9,LicenseType,String,45344fe7-00e6-4ac6-9f01-d01fd4ffadfb
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\TerminalTypes\88f5767d-d13f-404d-a348-8b8e030294a9,Name,String,Service Terminal
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\TerminalTypes\88f5767d-d13f-404d-a348-8b8e030294a9,SessionSource,DWord,"00000003"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\TerminalTypes\88f5767d-d13f-404d-a348-8b8e030294a9\ReconCompat,0f0a4bf8-8362-435d-938c-222a518a8b78,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\TerminalTypes\88f5767d-d13f-404d-a348-8b8e030294a9\ReconCompat,49e52265-9c80-4b84-a9d5-7ecf311036ac,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\VIDEO\disc,\Device\Video0,String,\REGISTRY\Machine\System\CurrentControlSet\Services\TSDDD\Device0
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\VIDEO\disc,VgaCompatible,String,\Device\Video0
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\VIDEO\rdpudd,\Device\Video0,String,\REGISTRY\Machine\System\CurrentControlSet\Services\RDPUDD\Device0
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\VIDEO\rdpudd,VgaCompatible,String,\Device\Video0
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\VIDEO\workerdd,\Device\Video0,String,\REGISTRY\Machine\System\CurrentControlSet\Services\workerdd\Device0
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\VIDEO\workerdd,VgaCompatible,String,\Device\Video0
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,AudioEnumeratorDll,String,rdpendp.dll
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,BaudRate,DWord,"0000E100"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,ByteSize,DWord,"00000008"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,CfgDll,String,RDPCFGEX.DLL
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,ColorDepth,DWord,"00000003"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,ConnectType,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,DeviceName,String,
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,fAutoClientDrives,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,fAutoClientLpts,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,fDisableAudioCapture,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,fDisableCam,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,fDisableCcm,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,fDisableCdm,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,fDisableClip,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,fDisableCpm,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,fDisableEncryption,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,fDisableLPT,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,fEnableBreakDisconnect,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,fEnableDsrSensitivity,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,fEnableDTR,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,fEnableRTS,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,fFlowSoftwareRx,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,fFlowSoftwareTx,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,fForceClientLptDef,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,fInheritAutoClient,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,FlowHardwareRx,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,FlowHardwareTx,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,FlowType,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,InputBufferLength,DWord,"00000800"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,LoadableProtocol_Object,String,{5828227c-20cf-4408-b73f-73ab70b8849f}
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,MinEncryptionLevel,DWord,"00000002"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,Parity,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,SelectNetworkDetect,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,SelectTransport,DWord,"00000002"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,StartupPrograms,String,rdpclip
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,StopBits,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,WdFlag,DWord,"00000036"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,WdName,String,Microsoft RDP 8.0
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,WdPrefix,String,RDP
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,XoffChar,DWord,"00000013"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd,XonChar,DWord,"00000011"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd\Pds\tssecsrv,PdClass,DWord,"0000000B"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd\Pds\tssecsrv,PdDLL,String,tssecsrv
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd\Pds\tssecsrv,PdFlag,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd\Pds\tssecsrv,PdName,String,tssecsrv
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd\Tds\tcp,InteractiveDelay,DWord,"0000000A"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd\Tds\tcp,OutBufCount,DWord,"00000006"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd\Tds\tcp,OutBufDelay,DWord,"00000064"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd\Tds\tcp,OutBufLength,DWord,"00000212"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd\Tds\tcp,PdClass,DWord,"00000002"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd\Tds\tcp,PdDLL,String,tdtcp
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd\Tds\tcp,PdFlag,DWord,"0000004E"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd\Tds\tcp,PdName,String,tcp
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd\Tds\tcp,PortNumber,DWord,"00000D3D"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd\Tds\tcp,RequiredPds,MultiString,tssecsrv
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd\Tds\tcp,ServiceName,String,tcpip
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations,ConsoleSecurity,Binary,"010014809C000000A800000000000000140000000200880006000000000014000100000001010000000000050400000000001400BF030F000101000000000005120000000000140089000F00010100000000000513000000000014008100000001010000000000051400000000001800BF030F000102000000000005200000002002000000001800210100000102000000000005200000002B020000010100000000000512000000010100000000000512000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations,DefaultSecurity,Binary,"01001480B8000000C4000000140000003000000002001C000100000002801400210100000101000000000001000000000200880006000000000014000100000001010000000000050400000000001400BF030F000101000000000005120000000000140089000F00010100000000000513000000000014008100000001010000000000051400000000001800BF030F000102000000000005200000002002000000001800210100000102000000000005200000002B020000010100000000000512000000010100000000000512000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\Console,Shadow,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\Console\RDP,InteractiveDelay,DWord,"00000032"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\Console\RDP,OutBufDelay,DWord,"00000064"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\Console\RDP,PdClass,DWord,"00000002"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\Console\RDP,PdDLL,String,tdtcp
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\Console\RDP,PdFlag,DWord,"0000004E"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\Console\RDP,PdName,String,tcp
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\Console\RDP,WdFlag,DWord,"00000034"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\Console\RDP,WdName,String,Microsoft RDP 8.0
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\Console\RDP,WdPrefix,String,RDP
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,AudioEnumeratorDll,String,rdpendp.dll
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Callback,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,CallbackNumber,String,
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,CdClass,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,CdDLL,String,
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,CdFlag,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,CdName,String,
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,CfgDll,String,RDPCFGEX.DLL
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,ColorDepth,DWord,"00000005"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Comment,String,
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Domain,String,
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,DrawGdiplusSupportLevel,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fAllowSecProtocolNegotiation,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fAutoClientDrives,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fAutoClientLpts,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fDisableAudioCapture,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fDisableCam,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fDisableCcm,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fDisableCdm,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fDisableClip,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fDisableCpm,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fDisableEncryption,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fDisableExe,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fDisableLPT,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fEnableWinStation,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fForceClientLptDef,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fHomeDirectoryMapRoot,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fInheritAutoClient,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fInheritAutoLogon,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fInheritCallback,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fInheritCallbackNumber,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fInheritColorDepth,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fInheritInitialProgram,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fInheritMaxDisconnectionTime,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fInheritMaxIdleTime,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fInheritMaxSessionTime,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fInheritReconnectSame,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fInheritResetBroken,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fInheritSecurity,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fInheritShadow,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fLogonDisabled,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fPromptForPassword,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fReconnectSame,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fResetBroken,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,fUseDefaultGina,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,InitialProgram,String,
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,InputBufferLength,DWord,"00000800"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,InteractiveDelay,DWord,"00000032"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,KeepAliveTimeout,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,KeyboardLayout,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,LanAdapter,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,LoadableProtocol_Object,String,{5828227c-20cf-4408-b73f-73ab70b8849f}
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,MaxConnectionTime,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,MaxDisconnectionTime,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,MaxIdleTime,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,MaxInstanceCount,DWord,"FFFFFFFF"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,MinEncryptionLevel,DWord,"00000002"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,NWLogonServer,String,
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,OutBufCount,DWord,"00000006"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,OutBufDelay,DWord,"00000064"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,OutBufLength,DWord,"00000212"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Password,String,
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,PdClass,DWord,"00000002"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,PdClass1,DWord,"0000000B"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,PdDLL,String,tdtcp
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,PdDLL1,String,tssecsrv
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,PdFlag,DWord,"0000004E"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,PdFlag1,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,PdName,String,tcp
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,PdName1,String,tssecsrv
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,PortNumber,DWord,"00000D3D"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,SecurityLayer,DWord,"00000002"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,SelectNetworkDetect,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,SelectTransport,DWord,"00000002"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Shadow,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,UserAuthentication,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,Username,String,
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,WdFlag,DWord,"00000036"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,WdName,String,Microsoft RDP 8.0
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,WdPrefix,String,RDP
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,WFProfilePath,String,
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp,WorkDirectory,String,
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp\TSMMRemotingAllowedApps,ehshell.exe,DWord,"00000002"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp\VideoRemotingWindowNames,AGFullScreenWinClass,String,*
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp\VideoRemotingWindowNames,EVRVideoHandler,String,*
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp\VideoRemotingWindowNames,MacromediaFlashPlayerActiveX,String,*
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp\VideoRemotingWindowNames,MicrosoftSilverlight,String,*
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp\VideoRemotingWindowNames,ShockwaveFlashFullScreen,String,*

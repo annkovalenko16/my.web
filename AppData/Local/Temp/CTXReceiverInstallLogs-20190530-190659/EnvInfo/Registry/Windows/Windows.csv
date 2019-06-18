@@ -1,0 +1,15 @@
+"RegistryPath","Path","Name","Kind","Value"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Windows,ComponentizedBuild,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Windows,CSDBuildNumber,DWord,"000002FD"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Windows,CSDReleaseType,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Windows,CSDVersion,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Windows,Directory,ExpandString,C:\WINDOWS
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Windows,ErrorMode,DWord,"00000000"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Windows,FullProcessInformationSID,Binary,"0106000000000005500000005EF30FB18164AE04B14CA22914B14C21A6568656"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Windows,NoInteractiveServices,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Windows,ShellErrorMode,DWord,"00000001"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Windows,SystemDirectory,ExpandString,C:\WINDOWS\system32
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Windows,ShutdownTime,Binary,"C508E3BEFD16D501"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Windows,ShutdownStopTimePerfCounter,QWord,"0000000021351D8E"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Windows,LastBootPerfCounterFrequency,QWord,"000000000025317F"
+HiveKeyLocalMachine,System\CurrentControlSet\Control\Windows,ShutdownStopTimePerfCounterBuildLab,String,17134.rs4_release.180410-1804

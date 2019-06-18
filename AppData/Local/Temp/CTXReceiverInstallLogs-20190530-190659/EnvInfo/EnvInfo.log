@@ -1,0 +1,95 @@
+2019-05-30 19:07:04.959: Use Default
+2019-05-30 19:07:05.068: ApplicationEventLog Days = 1
+2019-05-30 19:07:05.068: SystemEventLog Days = 1
+2019-05-30 19:07:05.068: SecurityEventLog Days = 1
+2019-05-30 19:07:05.131: Collect Start
+2019-05-30 19:07:05.146: Proc1 Enter
+2019-05-30 19:07:05.146: Proc5 Enter
+2019-05-30 19:07:05.146: Proc3 Enter
+2019-05-30 19:07:05.146: GetCitrixBinariesInOneCsvFile Enter 
+2019-05-30 19:07:05.146: Proc2 Enter
+2019-05-30 19:07:05.146: GetRegistryHivesInOneCsvFile Enter
+2019-05-30 19:07:05.146: Use Default
+2019-05-30 19:07:05.146: GetBin Enter
+2019-05-30 19:07:05.146: GetWMIObjectsInOneCsvFile_v2 Enter: strScope:root\cimv2, strSearch:win32_environment 
+2019-05-30 19:07:05.146: GetRegistryDetailInOneCsvFile Enter: HKEY_LOCAL_MACHINE\Software\Citrix
+2019-05-30 19:07:05.146: Start Getting strScope: root\cimv2, strSearch: win32_environment
+2019-05-30 19:07:05.146: Proc4 Enter
+2019-05-30 19:07:05.146: GetCitrixInstalledComponentsInOneCsvFile Enter
+2019-05-30 19:07:05.146: GetWMIObjectsInOneCsvFile Enter: strScope:root\cimv2, strSearch:Select *From Win32_NTLogEvent Where LogFile='Application'  And TimeGenerated >='20190529210000.000000-000' 
+2019-05-30 19:07:05.162: GetBin Exit 
+2019-05-30 19:07:05.162: GetCitrixBinariesInOneCsvFile Exit
+2019-05-30 19:07:05.162: Proc1 Exit
+2019-05-30 19:07:05.162: Thread 1 Done
+2019-05-30 19:07:05.162: Start Getting strScope: root\cimv2, strSearch: Select *From Win32_NTLogEvent Where LogFile='Application'  And TimeGenerated >='20190529210000.000000-000'
+2019-05-30 19:07:05.162: End Getting strScope: root\cimv2, strSearch: Select *From Win32_NTLogEvent Where LogFile='Application'  And TimeGenerated >='20190529210000.000000-000'
+2019-05-30 19:07:05.162: GetCitrixInstalledComponentsInOneCsvFile Exit
+2019-05-30 19:07:05.178: GetMSFTHotfixInOneCsvFile_WUAPI Enter
+2019-05-30 19:07:05.178: GetRegistryDetailInOneCsvFile Exit 
+2019-05-30 19:07:05.178: GetRegistryDetailInOneCsvFile Enter: HKEY_LOCAL_MACHINE\Software\Wow6432Node\Citrix
+2019-05-30 19:07:05.178: GetRegistryDetailInOneCsvFile Exit 
+2019-05-30 19:07:05.178: GetRegistryDetailInOneCsvFile Enter: HKEY_LOCAL_MACHINE\Software\Microsoft\Cryptography
+2019-05-30 19:07:05.193: End Getting strScope: root\cimv2, strSearch: win32_environment
+2019-05-30 19:07:05.225: GetMSFTHotfixInOneCsvFile_WUAPI Exit
+2019-05-30 19:07:05.225: Proc4 Exit
+2019-05-30 19:07:05.225: GetRegistryDetailInOneCsvFile Exit 
+2019-05-30 19:07:05.225: GetRegistryDetailInOneCsvFile Enter: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Windows
+2019-05-30 19:07:05.240: GetRegistryDetailInOneCsvFile Exit 
+2019-05-30 19:07:05.240: GetRegistryDetailInOneCsvFile Enter: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon
+2019-05-30 19:07:05.256: GetRegistryDetailInOneCsvFile Exit 
+2019-05-30 19:07:05.256: GetRegistryDetailInOneCsvFile Enter: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+2019-05-30 19:07:05.256: GetWMIObjectsInOneCsvFile_v2 Exit: strScope:root\cimv2, strSearch:win32_environment 
+2019-05-30 19:07:05.256: GetWMIObjectsInOneCsvFile Enter: strScope:root\cimv2, strSearch:Select *From Win32_NTLogEvent Where LogFile='System'  And TimeGenerated >='20190529210000.000000-000' 
+2019-05-30 19:07:05.256: Start Getting strScope: root\cimv2, strSearch: Select *From Win32_NTLogEvent Where LogFile='System'  And TimeGenerated >='20190529210000.000000-000'
+2019-05-30 19:07:05.256: End Getting strScope: root\cimv2, strSearch: Select *From Win32_NTLogEvent Where LogFile='System'  And TimeGenerated >='20190529210000.000000-000'
+2019-05-30 19:07:05.256: GetRegistryDetailInOneCsvFile Exit 
+2019-05-30 19:07:05.256: GetRegistryDetailInOneCsvFile Enter: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Print\Environments
+2019-05-30 19:07:05.271: GetRegistryDetailInOneCsvFile Exit 
+2019-05-30 19:07:05.271: GetRegistryDetailInOneCsvFile Enter: HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Session Manager
+2019-05-30 19:07:05.365: Void GetRegistry(Microsoft.Win32.RegistryKey, Boolean, Boolean, System.IO.StreamWriter): Void GetRegistry(Microsoft.Win32.RegistryKey, Boolean, Boolean, System.IO.StreamWriter) Exception: Requested registry access is not allowed.
+2019-05-30 19:07:05.365: ThisKey: HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Session Manager\kernel, sbk: RNG
+2019-05-30 19:07:05.365: The regKey is null
+2019-05-30 19:07:05.381: GetRegistryDetailInOneCsvFile Exit 
+2019-05-30 19:07:05.381: GetRegistryDetailInOneCsvFile Enter: HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Citrix
+2019-05-30 19:07:05.381: GetRegistryDetailInOneCsvFile Exit 
+2019-05-30 19:07:05.381: GetRegistryDetailInOneCsvFile Enter: HKEY_LOCAL_MACHINE\System\Monitoring\Server\EdgeSight\4.0
+2019-05-30 19:07:05.381: GetRegistryDetailInOneCsvFile Exit 
+2019-05-30 19:07:05.381: GetRegistryDetailInOneCsvFile Enter: HKEY_LOCAL_MACHINE\Software\Classes\ShockwaveFlash.ShockwaveFlash\CurVer
+2019-05-30 19:07:05.396: GetRegistryDetailInOneCsvFile Exit 
+2019-05-30 19:07:05.396: GetRegistryDetailInOneCsvFile Enter: HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer
+2019-05-30 19:07:05.568: GetRegistryDetailInOneCsvFile Exit 
+2019-05-30 19:07:05.568: GetRegistryDetailInOneCsvFile Enter: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+2019-05-30 19:07:05.568: GetRegistryDetailInOneCsvFile Exit 
+2019-05-30 19:07:05.568: GetRegistryDetailInOneCsvFile Enter: HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\BNNS\Parameters
+2019-05-30 19:07:05.568: GetRegistryDetailInOneCsvFile Exit 
+2019-05-30 19:07:05.568: GetRegistryDetailInOneCsvFile Enter: HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\BNIStack\Parameters
+2019-05-30 19:07:05.568: GetRegistryDetailInOneCsvFile Exit 
+2019-05-30 19:07:05.568: GetRegistryDetailInOneCsvFile Enter: HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\LanmanServer\Parameters
+2019-05-30 19:07:05.599: GetRegistryDetailInOneCsvFile Exit 
+2019-05-30 19:07:05.599: GetRegistryDetailInOneCsvFile Enter: HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\LanmanWorkstation\Parameters
+2019-05-30 19:07:05.599: GetRegistryDetailInOneCsvFile Exit 
+2019-05-30 19:07:05.599: GetRegistryDetailInOneCsvFile Enter: HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\mrxsmb\Parameters
+2019-05-30 19:07:05.599: GetRegistryDetailInOneCsvFile Exit 
+2019-05-30 19:07:05.599: GetRegistryDetailInOneCsvFile Enter: HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\CtxHttp
+2019-05-30 19:07:05.599: GetRegistryDetailInOneCsvFile Exit 
+2019-05-30 19:07:05.599: GetRegistryDetailInOneCsvFile Enter: HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\FileSystem
+2019-05-30 19:07:05.615: GetRegistryDetailInOneCsvFile Exit 
+2019-05-30 19:07:05.615: GetRegistryDetailInOneCsvFile Enter: HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Print\Providers
+2019-05-30 19:07:05.615: GetRegistryDetailInOneCsvFile Exit 
+2019-05-30 19:07:05.615: GetRegistryDetailInOneCsvFile Enter: HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Session Manager\Memory Management
+2019-05-30 19:07:05.615: GetRegistryDetailInOneCsvFile Exit 
+2019-05-30 19:07:05.615: GetRegistryDetailInOneCsvFile Enter: HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Windows
+2019-05-30 19:07:05.631: GetRegistryDetailInOneCsvFile Exit 
+2019-05-30 19:07:05.631: GetRegistryDetailInOneCsvFile Enter: HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Terminal Server
+2019-05-30 19:07:05.646: GetRegistryDetailInOneCsvFile Exit 
+2019-05-30 19:07:05.646: GetRegistryHivesInOneCsvFile Exit
+2019-05-30 19:07:05.646: Proc3 Exit
+2019-05-30 19:07:05.771: GetWMIObjectsInOneCsvFile Exit: strScope:root\cimv2, strSearch:Select *From Win32_NTLogEvent Where LogFile='Application'  And TimeGenerated >='20190529210000.000000-000' 
+2019-05-30 19:07:05.771: Proc5 Exit
+2019-05-30 19:07:05.996: GetWMIObjectsInOneCsvFile Exit: strScope:root\cimv2, strSearch:Select *From Win32_NTLogEvent Where LogFile='System'  And TimeGenerated >='20190529210000.000000-000' 
+2019-05-30 19:07:05.996: Proc2 Exit
+2019-05-30 19:07:05.996: Thread 2 Done
+2019-05-30 19:07:05.996: Thread 3 Done
+2019-05-30 19:07:05.996: Thread 4 Done
+2019-05-30 19:07:05.996: Thread 5 Done
+2019-05-30 19:07:05.996: Collect Done

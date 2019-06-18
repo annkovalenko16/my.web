@@ -1,0 +1,672 @@
+"RegistryPath","Path","Name","Kind","Value"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\AutoEnrollment\DisallowedSCEPAlgorithms,Microsoft Passport Key Storage Provider,MultiString,sha512
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Calais\Cache,,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Calais\SmartCards\Identity Device (Microsoft Generic Profile),80000001,String,C:\Windows\SysWOW64\msclmd.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Calais\SmartCards\Identity Device (Microsoft Generic Profile),Crypto Provider,String,Microsoft Base Smart Card Crypto Provider
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Calais\SmartCards\Identity Device (Microsoft Generic Profile),Smart Card Key Storage Provider,String,Microsoft Smart Card Key Storage Provider
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Calais\SmartCards\Identity Device (NIST SP 800-73 [PIV]),80000001,String,C:\Windows\SysWOW64\msclmd.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Calais\SmartCards\Identity Device (NIST SP 800-73 [PIV]),Crypto Provider,String,Microsoft Base Smart Card Crypto Provider
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Calais\SmartCards\Identity Device (NIST SP 800-73 [PIV]),Smart Card Key Storage Provider,String,Microsoft Smart Card Key Storage Provider
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft Base Cryptographic Provider v1.0,Image Path,String,%SystemRoot%\system32\rsaenh.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft Base Cryptographic Provider v1.0,SigInFile,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft Base Cryptographic Provider v1.0,Type,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft Base DSS and Diffie-Hellman Cryptographic Provider,Image Path,String,%SystemRoot%\system32\dssenh.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft Base DSS and Diffie-Hellman Cryptographic Provider,SigInFile,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft Base DSS and Diffie-Hellman Cryptographic Provider,Type,DWord,"0000000D"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft Base DSS Cryptographic Provider,Image Path,String,%SystemRoot%\system32\dssenh.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft Base DSS Cryptographic Provider,SigInFile,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft Base DSS Cryptographic Provider,Type,DWord,"00000003"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft Base Smart Card Crypto Provider,Image Path,String,C:\Windows\SysWOW64\basecsp.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft Base Smart Card Crypto Provider,SigInFile,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft Base Smart Card Crypto Provider,Type,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft DH SChannel Cryptographic Provider,Image Path,String,%SystemRoot%\system32\dssenh.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft DH SChannel Cryptographic Provider,SigInFile,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft DH SChannel Cryptographic Provider,Type,DWord,"00000012"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft Enhanced Cryptographic Provider v1.0,Image Path,String,%SystemRoot%\system32\rsaenh.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft Enhanced Cryptographic Provider v1.0,SigInFile,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft Enhanced Cryptographic Provider v1.0,Type,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft Enhanced DSS and Diffie-Hellman Cryptographic Provider,Image Path,String,%SystemRoot%\system32\dssenh.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft Enhanced DSS and Diffie-Hellman Cryptographic Provider,SigInFile,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft Enhanced DSS and Diffie-Hellman Cryptographic Provider,Type,DWord,"0000000D"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft Enhanced RSA and AES Cryptographic Provider,Image Path,String,%SystemRoot%\system32\rsaenh.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft Enhanced RSA and AES Cryptographic Provider,SigInFile,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft Enhanced RSA and AES Cryptographic Provider,Type,DWord,"00000018"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft RSA SChannel Cryptographic Provider,Image Path,String,%SystemRoot%\system32\rsaenh.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft RSA SChannel Cryptographic Provider,SigInFile,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft RSA SChannel Cryptographic Provider,Type,DWord,"0000000C"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft Strong Cryptographic Provider,Image Path,String,%SystemRoot%\system32\rsaenh.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft Strong Cryptographic Provider,SigInFile,DWord,"00000000"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider\Microsoft Strong Cryptographic Provider,Type,DWord,"00000001"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider Types\Type 001,Name,String,Microsoft Strong Cryptographic Provider
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider Types\Type 001,TypeName,String,RSA Full (Signature and Key Exchange)
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider Types\Type 003,Name,String,Microsoft Base DSS Cryptographic Provider
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider Types\Type 003,TypeName,String,DSS Signature
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider Types\Type 012,Name,String,Microsoft RSA SChannel Cryptographic Provider
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider Types\Type 012,TypeName,String,RSA SChannel
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider Types\Type 013,Name,String,Microsoft Enhanced DSS and Diffie-Hellman Cryptographic Provider
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider Types\Type 013,TypeName,String,DSS Signature with Diffie-Hellman Key Exchange
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider Types\Type 018,Name,String,Microsoft DH SChannel Cryptographic Provider
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider Types\Type 018,TypeName,String,Diffie-Hellman SChannel
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider Types\Type 024,Name,String,Microsoft Enhanced RSA and AES Cryptographic Provider
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Defaults\Provider Types\Type 024,TypeName,String,RSA Full and AES
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CertDllCreateCertificateChainEngine\Config\Default,WeakMd5ThirdPartyAfterTime,Binary,"00C029B8439AC901"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CertDllCreateCertificateChainEngine\Config\Default,WeakMd5ThirdPartyFlags,DWord,"88900000"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CertDllCreateCertificateChainEngine\Config\Default,WeakMd5ThirdPartySha256Allow,MultiString,"01A8F438E1A14A904BA530942BEDBD94708CA654B8DF3C4585F17B60DA6690D1,8421A0182C854C1F4266C95FC8302E217A14C7797FE41F2A87CA6B2734C43F1D,1AD335187A1DC540738FB2EA82B7366678C2EEDCDAE75FEADD6ECD89779CB983,4B480E8EE1B8DFF231005E9DC5D8267227684D07A38BA6FECDB288DE53FB0A3E,E059080EF4409BC0D96FBCBDDEEE6C0AFBE871AD3D68BBA6A743C64631F599C9,26ED148B33F377BA01B68A9A97FEB2391FBED7D51E3F6EB83BEBC2FBA90920B1"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CertDllCreateCertificateChainEngine\Config\Default,WeakSha1ThirdPartyFlags,DWord,"80040000"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CertDllLogMismatchPinRules\DEFAULT,Dll,MultiString,C:\Windows\SysWOW64\cryptui.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CertDllOpenStoreProv\#16,Dll,String,C:\Windows\SysWOW64\cryptnet.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CertDllOpenStoreProv\#16,FuncName,String,LdapProvOpenStore
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CertDllOpenStoreProv\Ldap,Dll,String,C:\Windows\SysWOW64\cryptnet.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CertDllOpenStoreProv\Ldap,FuncName,String,LdapProvOpenStore
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CertDllProtectedRootMessageBox\DEFAULT,Dll,MultiString,C:\Windows\SysWOW64\cryptui.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptDllFindLocalizedName\LocalizedNames,EKCA,String,"@%SystemRoot%\System32\CertCA.dll,-305"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptDllFindLocalizedName\LocalizedNames,EKROOT,String,"@%SystemRoot%\System32\CertCA.dll,-304"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptDllFindLocalizedName\LocalizedNames,Remote Desktop,String,"@%SystemRoot%\System32\SessEnv.dll,-101"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptDllFindLocalizedName\LocalizedNames,TrustedDevices,String,"@%systemroot%\system32\wsdapi.dll,-200"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptDllFindOIDInfo\1.3.6.1.4.1.311.60.3.1!7,Name,String,szOID_ROOT_PROGRAM_AUTO_UPDATE_CA_REVOCATION
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptDllFindOIDInfo\1.3.6.1.4.1.311.60.3.2!7,Name,String,szOID_ROOT_PROGRAM_AUTO_UPDATE_END_REVOCATION
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptDllFindOIDInfo\1.3.6.1.4.1.311.60.3.3!7,Name,String,szOID_ROOT_PROGRAM_NO_OCSP_FAILOVER_TO_CRL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptDllFindOIDInfo\1.3.6.1.4.1.311.64.1.1!7,Name,String,"@%SystemRoot%\system32\dnsapi.dll,-103"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptDllFindOIDInfo\1.3.6.1.4.1.311.80.1!7,Name,String,"@%SystemRoot%\system32\WindowsPowerShell\v1.0\powershell.exe,-124"
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptDllProtectPrompt\DEFAULT,Dll,MultiString,C:\Windows\SysWOW64\cryptui.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{000C10F1-0000-0000-C000-000000000046},Dll,String,C:\Windows\SysWOW64\MSISIP.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{000C10F1-0000-0000-C000-000000000046},FuncName,String,MsiSIPCreateIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{06C9E010-38CE-11D4-A2A3-00104BD35090},Dll,String,C:\Windows\SysWOW64\wshext.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{06C9E010-38CE-11D4-A2A3-00104BD35090},FuncName,String,CreateIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{0AC5DF4B-CE07-4DE2-B76E-23C839A09FD1},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{0AC5DF4B-CE07-4DE2-B76E-23C839A09FD1},FuncName,String,AppxSipCreateIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{0F5F58B3-AADE-4B9A-A434-95742D92ECEB},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{0F5F58B3-AADE-4B9A-A434-95742D92ECEB},FuncName,String,AppxBundleSipCreateIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{1629F04E-2799-4DB5-8FE5-ACE10F17EBAB},Dll,String,C:\Windows\SysWOW64\wshext.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{1629F04E-2799-4DB5-8FE5-ACE10F17EBAB},FuncName,String,CreateIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{1A610570-38CE-11D4-A2A3-00104BD35090},Dll,String,C:\Windows\SysWOW64\wshext.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{1A610570-38CE-11D4-A2A3-00104BD35090},FuncName,String,CreateIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{5598CFF1-68DB-4340-B57F-1CACF88C9A51},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{5598CFF1-68DB-4340-B57F-1CACF88C9A51},FuncName,String,P7SipCreateIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{603BCC1F-4B59-4E08-B724-D2C6297EF351},Dll,String,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\pwrshsip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{603BCC1F-4B59-4E08-B724-D2C6297EF351},FuncName,String,PsCreateHash
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{9BA61D3F-E73A-11D0-8CD2-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{9BA61D3F-E73A-11D0-8CD2-00C04FC295EE},FuncName,String,CryptSIPCreateIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{9F3053C5-439D-4BF7-8A77-04F0450A1D9F},Dll,String,C:\Windows\SysWOW64\EsdSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{9F3053C5-439D-4BF7-8A77-04F0450A1D9F},FuncName,String,EsdSipCreateHash
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{C689AAB8-8E78-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{C689AAB8-8E78-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPCreateIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{C689AAB9-8E78-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{C689AAB9-8E78-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPCreateIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{C689AABA-8E78-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{C689AABA-8E78-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPCreateIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{CF78C6DE-64A2-4799-B506-89ADFF5D16D6},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{CF78C6DE-64A2-4799-B506-89ADFF5D16D6},FuncName,String,EappxSipCreateIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{D1D04F0C-9ABA-430D-B0E4-D7E96ACCE66C},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{D1D04F0C-9ABA-430D-B0E4-D7E96ACCE66C},FuncName,String,EappxBundleSipCreateIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{DE351A42-8E59-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{DE351A42-8E59-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPCreateIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{DE351A43-8E59-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllCreateIndirectData\{DE351A43-8E59-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPCreateIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetCaps\{9BA61D3F-E73A-11D0-8CD2-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetCaps\{9BA61D3F-E73A-11D0-8CD2-00C04FC295EE},FuncName,String,CryptSIPGetCaps
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetCaps\{9F3053C5-439D-4BF7-8A77-04F0450A1D9F},Dll,String,C:\Windows\SysWOW64\EsdSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetCaps\{9F3053C5-439D-4BF7-8A77-04F0450A1D9F},FuncName,String,EsdSipGetCaps
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetCaps\{C689AAB8-8E78-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetCaps\{C689AAB8-8E78-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPGetCaps
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetCaps\{C689AAB9-8E78-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetCaps\{C689AAB9-8E78-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPGetCaps
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetCaps\{C689AABA-8E78-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetCaps\{C689AABA-8E78-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPGetCaps
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetCaps\{DE351A42-8E59-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetCaps\{DE351A42-8E59-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPGetCaps
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetCaps\{DE351A43-8E59-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetCaps\{DE351A43-8E59-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPGetCaps
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSealedDigest\{9BA61D3F-E73A-11D0-8CD2-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSealedDigest\{9BA61D3F-E73A-11D0-8CD2-00C04FC295EE},FuncName,String,CryptSIPGetSealedDigest
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSealedDigest\{C689AAB8-8E78-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSealedDigest\{C689AAB8-8E78-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPGetSealedDigest
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSealedDigest\{C689AAB9-8E78-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSealedDigest\{C689AAB9-8E78-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPGetSealedDigest
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSealedDigest\{C689AABA-8E78-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSealedDigest\{C689AABA-8E78-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPGetSealedDigest
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSealedDigest\{DE351A42-8E59-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSealedDigest\{DE351A42-8E59-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPGetSealedDigest
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSealedDigest\{DE351A43-8E59-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSealedDigest\{DE351A43-8E59-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPGetSealedDigest
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{000C10F1-0000-0000-C000-000000000046},Dll,String,C:\Windows\SysWOW64\MSISIP.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{000C10F1-0000-0000-C000-000000000046},FuncName,String,MsiSIPGetSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{06C9E010-38CE-11D4-A2A3-00104BD35090},Dll,String,C:\Windows\SysWOW64\wshext.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{06C9E010-38CE-11D4-A2A3-00104BD35090},FuncName,String,GetSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{0AC5DF4B-CE07-4DE2-B76E-23C839A09FD1},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{0AC5DF4B-CE07-4DE2-B76E-23C839A09FD1},FuncName,String,AppxSipGetSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{0F5F58B3-AADE-4B9A-A434-95742D92ECEB},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{0F5F58B3-AADE-4B9A-A434-95742D92ECEB},FuncName,String,AppxBundleSipGetSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{1629F04E-2799-4DB5-8FE5-ACE10F17EBAB},Dll,String,C:\Windows\SysWOW64\wshext.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{1629F04E-2799-4DB5-8FE5-ACE10F17EBAB},FuncName,String,GetSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{1A610570-38CE-11D4-A2A3-00104BD35090},Dll,String,C:\Windows\SysWOW64\wshext.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{1A610570-38CE-11D4-A2A3-00104BD35090},FuncName,String,GetSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{5598CFF1-68DB-4340-B57F-1CACF88C9A51},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{5598CFF1-68DB-4340-B57F-1CACF88C9A51},FuncName,String,P7xSipGetSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{603BCC1F-4B59-4E08-B724-D2C6297EF351},Dll,String,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\pwrshsip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{603BCC1F-4B59-4E08-B724-D2C6297EF351},FuncName,String,PsGetSignature
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{9BA61D3F-E73A-11D0-8CD2-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{9BA61D3F-E73A-11D0-8CD2-00C04FC295EE},FuncName,String,CryptSIPGetSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{9F3053C5-439D-4BF7-8A77-04F0450A1D9F},Dll,String,C:\Windows\SysWOW64\EsdSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{9F3053C5-439D-4BF7-8A77-04F0450A1D9F},FuncName,String,EsdSipGetSignature
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{C689AAB8-8E78-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{C689AAB8-8E78-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPGetSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{C689AAB9-8E78-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{C689AAB9-8E78-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPGetSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{C689AABA-8E78-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{C689AABA-8E78-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPGetSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{CF78C6DE-64A2-4799-B506-89ADFF5D16D6},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{CF78C6DE-64A2-4799-B506-89ADFF5D16D6},FuncName,String,EappxSipGetSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{D1D04F0C-9ABA-430D-B0E4-D7E96ACCE66C},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{D1D04F0C-9ABA-430D-B0E4-D7E96ACCE66C},FuncName,String,EappxBundleSipGetSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{DE351A42-8E59-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{DE351A42-8E59-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPGetSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{DE351A43-8E59-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllGetSignedDataMsg\{DE351A43-8E59-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPGetSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllIsMyFileType2\{000C10F1-0000-0000-C000-000000000046},Dll,String,C:\Windows\SysWOW64\MSISIP.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllIsMyFileType2\{000C10F1-0000-0000-C000-000000000046},FuncName,String,MsiSIPIsMyTypeOfFile
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllIsMyFileType2\{06C9E010-38CE-11D4-A2A3-00104BD35090},Dll,String,C:\Windows\SysWOW64\wshext.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllIsMyFileType2\{06C9E010-38CE-11D4-A2A3-00104BD35090},FuncName,String,IsFileSupportedName
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllIsMyFileType2\{0AC5DF4B-CE07-4DE2-B76E-23C839A09FD1},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllIsMyFileType2\{0AC5DF4B-CE07-4DE2-B76E-23C839A09FD1},FuncName,String,AppxSipIsFileSupportedName
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllIsMyFileType2\{0F5F58B3-AADE-4B9A-A434-95742D92ECEB},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllIsMyFileType2\{0F5F58B3-AADE-4B9A-A434-95742D92ECEB},FuncName,String,AppxBundleSipIsFileSupportedName
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllIsMyFileType2\{1629F04E-2799-4DB5-8FE5-ACE10F17EBAB},Dll,String,C:\Windows\SysWOW64\wshext.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllIsMyFileType2\{1629F04E-2799-4DB5-8FE5-ACE10F17EBAB},FuncName,String,IsFileSupportedName
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllIsMyFileType2\{1A610570-38CE-11D4-A2A3-00104BD35090},Dll,String,C:\Windows\SysWOW64\wshext.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllIsMyFileType2\{1A610570-38CE-11D4-A2A3-00104BD35090},FuncName,String,IsFileSupportedName
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllIsMyFileType2\{5598CFF1-68DB-4340-B57F-1CACF88C9A51},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllIsMyFileType2\{5598CFF1-68DB-4340-B57F-1CACF88C9A51},FuncName,String,P7xSipIsFileSupportedName
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllIsMyFileType2\{603BCC1F-4B59-4E08-B724-D2C6297EF351},Dll,String,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\pwrshsip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllIsMyFileType2\{603BCC1F-4B59-4E08-B724-D2C6297EF351},FuncName,String,PsIsMyFileType
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllIsMyFileType2\{9F3053C5-439D-4BF7-8A77-04F0450A1D9F},Dll,String,C:\Windows\SysWOW64\EsdSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllIsMyFileType2\{9F3053C5-439D-4BF7-8A77-04F0450A1D9F},FuncName,String,EsdSipIsMyFileType
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllIsMyFileType2\{CF78C6DE-64A2-4799-B506-89ADFF5D16D6},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllIsMyFileType2\{CF78C6DE-64A2-4799-B506-89ADFF5D16D6},FuncName,String,EappxSipIsFileSupportedName
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllIsMyFileType2\{D1D04F0C-9ABA-430D-B0E4-D7E96ACCE66C},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllIsMyFileType2\{D1D04F0C-9ABA-430D-B0E4-D7E96ACCE66C},FuncName,String,EappxBundleSipIsFileSupportedName
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{000C10F1-0000-0000-C000-000000000046},Dll,String,C:\Windows\SysWOW64\MSISIP.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{000C10F1-0000-0000-C000-000000000046},FuncName,String,MsiSIPPutSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{06C9E010-38CE-11D4-A2A3-00104BD35090},Dll,String,C:\Windows\SysWOW64\wshext.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{06C9E010-38CE-11D4-A2A3-00104BD35090},FuncName,String,PutSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{0AC5DF4B-CE07-4DE2-B76E-23C839A09FD1},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{0AC5DF4B-CE07-4DE2-B76E-23C839A09FD1},FuncName,String,AppxSipPutSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{0F5F58B3-AADE-4B9A-A434-95742D92ECEB},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{0F5F58B3-AADE-4B9A-A434-95742D92ECEB},FuncName,String,AppxBundleSipPutSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{1629F04E-2799-4DB5-8FE5-ACE10F17EBAB},Dll,String,C:\Windows\SysWOW64\wshext.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{1629F04E-2799-4DB5-8FE5-ACE10F17EBAB},FuncName,String,PutSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{1A610570-38CE-11D4-A2A3-00104BD35090},Dll,String,C:\Windows\SysWOW64\wshext.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{1A610570-38CE-11D4-A2A3-00104BD35090},FuncName,String,PutSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{5598CFF1-68DB-4340-B57F-1CACF88C9A51},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{5598CFF1-68DB-4340-B57F-1CACF88C9A51},FuncName,String,P7xSipPutSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{603BCC1F-4B59-4E08-B724-D2C6297EF351},Dll,String,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\pwrshsip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{603BCC1F-4B59-4E08-B724-D2C6297EF351},FuncName,String,PsPutSignature
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{9BA61D3F-E73A-11D0-8CD2-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{9BA61D3F-E73A-11D0-8CD2-00C04FC295EE},FuncName,String,CryptSIPPutSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{9F3053C5-439D-4BF7-8A77-04F0450A1D9F},Dll,String,C:\Windows\SysWOW64\EsdSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{9F3053C5-439D-4BF7-8A77-04F0450A1D9F},FuncName,String,EsdSipPutSignature
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{C689AAB8-8E78-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{C689AAB8-8E78-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPPutSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{C689AAB9-8E78-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{C689AAB9-8E78-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPPutSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{C689AABA-8E78-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{C689AABA-8E78-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPPutSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{CF78C6DE-64A2-4799-B506-89ADFF5D16D6},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{CF78C6DE-64A2-4799-B506-89ADFF5D16D6},FuncName,String,EappxSipPutSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{D1D04F0C-9ABA-430D-B0E4-D7E96ACCE66C},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{D1D04F0C-9ABA-430D-B0E4-D7E96ACCE66C},FuncName,String,EappxBundleSipPutSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{DE351A42-8E59-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{DE351A42-8E59-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPPutSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{DE351A43-8E59-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllPutSignedDataMsg\{DE351A43-8E59-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPPutSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{000C10F1-0000-0000-C000-000000000046},Dll,String,C:\Windows\SysWOW64\MSISIP.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{000C10F1-0000-0000-C000-000000000046},FuncName,String,MsiSIPRemoveSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{06C9E010-38CE-11D4-A2A3-00104BD35090},Dll,String,C:\Windows\SysWOW64\wshext.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{06C9E010-38CE-11D4-A2A3-00104BD35090},FuncName,String,RemoveSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{0AC5DF4B-CE07-4DE2-B76E-23C839A09FD1},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{0AC5DF4B-CE07-4DE2-B76E-23C839A09FD1},FuncName,String,AppxSipRemoveSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{0F5F58B3-AADE-4B9A-A434-95742D92ECEB},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{0F5F58B3-AADE-4B9A-A434-95742D92ECEB},FuncName,String,AppxBundleSipRemoveSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{1629F04E-2799-4DB5-8FE5-ACE10F17EBAB},Dll,String,C:\Windows\SysWOW64\wshext.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{1629F04E-2799-4DB5-8FE5-ACE10F17EBAB},FuncName,String,RemoveSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{1A610570-38CE-11D4-A2A3-00104BD35090},Dll,String,C:\Windows\SysWOW64\wshext.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{1A610570-38CE-11D4-A2A3-00104BD35090},FuncName,String,RemoveSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{5598CFF1-68DB-4340-B57F-1CACF88C9A51},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{5598CFF1-68DB-4340-B57F-1CACF88C9A51},FuncName,String,P7xSipRemoveSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{603BCC1F-4B59-4E08-B724-D2C6297EF351},Dll,String,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\pwrshsip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{603BCC1F-4B59-4E08-B724-D2C6297EF351},FuncName,String,PsDelSignature
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{9BA61D3F-E73A-11D0-8CD2-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{9BA61D3F-E73A-11D0-8CD2-00C04FC295EE},FuncName,String,CryptSIPRemoveSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{9F3053C5-439D-4BF7-8A77-04F0450A1D9F},Dll,String,C:\Windows\SysWOW64\EsdSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{9F3053C5-439D-4BF7-8A77-04F0450A1D9F},FuncName,String,EsdSipDelSignature
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{C689AAB8-8E78-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{C689AAB8-8E78-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPRemoveSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{C689AAB9-8E78-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{C689AAB9-8E78-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPRemoveSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{C689AABA-8E78-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{C689AABA-8E78-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPRemoveSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{CF78C6DE-64A2-4799-B506-89ADFF5D16D6},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{CF78C6DE-64A2-4799-B506-89ADFF5D16D6},FuncName,String,EappxSipRemoveSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{D1D04F0C-9ABA-430D-B0E4-D7E96ACCE66C},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{D1D04F0C-9ABA-430D-B0E4-D7E96ACCE66C},FuncName,String,EappxBundleSipRemoveSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{DE351A42-8E59-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{DE351A42-8E59-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPRemoveSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{DE351A43-8E59-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllRemoveSignedDataMsg\{DE351A43-8E59-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPRemoveSignedDataMsg
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{000C10F1-0000-0000-C000-000000000046},Dll,String,C:\Windows\SysWOW64\MSISIP.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{000C10F1-0000-0000-C000-000000000046},FuncName,String,MsiSIPVerifyIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{06C9E010-38CE-11D4-A2A3-00104BD35090},Dll,String,C:\Windows\SysWOW64\wshext.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{06C9E010-38CE-11D4-A2A3-00104BD35090},FuncName,String,VerifyIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{0AC5DF4B-CE07-4DE2-B76E-23C839A09FD1},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{0AC5DF4B-CE07-4DE2-B76E-23C839A09FD1},FuncName,String,AppxSipVerifyIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{0F5F58B3-AADE-4B9A-A434-95742D92ECEB},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{0F5F58B3-AADE-4B9A-A434-95742D92ECEB},FuncName,String,AppxBundleSipVerifyIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{1629F04E-2799-4DB5-8FE5-ACE10F17EBAB},Dll,String,C:\Windows\SysWOW64\wshext.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{1629F04E-2799-4DB5-8FE5-ACE10F17EBAB},FuncName,String,VerifyIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{1A610570-38CE-11D4-A2A3-00104BD35090},Dll,String,C:\Windows\SysWOW64\wshext.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{1A610570-38CE-11D4-A2A3-00104BD35090},FuncName,String,VerifyIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{5598CFF1-68DB-4340-B57F-1CACF88C9A51},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{5598CFF1-68DB-4340-B57F-1CACF88C9A51},FuncName,String,P7xSipVerifyIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{603BCC1F-4B59-4E08-B724-D2C6297EF351},Dll,String,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\pwrshsip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{603BCC1F-4B59-4E08-B724-D2C6297EF351},FuncName,String,PsVerifyHash
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{9BA61D3F-E73A-11D0-8CD2-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{9BA61D3F-E73A-11D0-8CD2-00C04FC295EE},FuncName,String,CryptSIPVerifyIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{9F3053C5-439D-4BF7-8A77-04F0450A1D9F},Dll,String,C:\Windows\SysWOW64\EsdSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{9F3053C5-439D-4BF7-8A77-04F0450A1D9F},FuncName,String,EsdSipVerifyHash
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{C689AAB8-8E78-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{C689AAB8-8E78-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPVerifyIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{C689AAB9-8E78-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{C689AAB9-8E78-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPVerifyIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{C689AABA-8E78-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{C689AABA-8E78-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPVerifyIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{CF78C6DE-64A2-4799-B506-89ADFF5D16D6},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{CF78C6DE-64A2-4799-B506-89ADFF5D16D6},FuncName,String,EappxSipVerifyIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{D1D04F0C-9ABA-430D-B0E4-D7E96ACCE66C},Dll,String,C:\Windows\SysWOW64\AppxSip.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{D1D04F0C-9ABA-430D-B0E4-D7E96ACCE66C},FuncName,String,EappxBundleSipVerifyIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{DE351A42-8E59-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{DE351A42-8E59-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPVerifyIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{DE351A43-8E59-11D0-8C47-00C04FC295EE},Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 0\CryptSIPDllVerifyIndirectData\{DE351A43-8E59-11D0-8C47-00C04FC295EE},FuncName,String,CryptSIPVerifyIndirectData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CertDllVerifyCTLUsage\DEFAULT,Dll,MultiString,C:\Windows\SysWOW64\cryptnet.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CertDllVerifyRevocation\DEFAULT,Dll,MultiString,C:\Windows\SysWOW64\cryptnet.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2000,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2000,FuncName,String,WVTAsn1SpcSpAgencyInfoDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2001,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2001,FuncName,String,WVTAsn1SpcMinimalCriteriaInfoDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2002,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2002,FuncName,String,WVTAsn1SpcFinancialCriteriaInfoDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2003,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2003,FuncName,String,WVTAsn1SpcIndirectDataContentDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2004,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2004,FuncName,String,WVTAsn1SpcPeImageDataDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2005,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2005,FuncName,String,WVTAsn1SpcLinkDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2006,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2006,FuncName,String,WVTAsn1SpcStatementTypeDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2007,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2007,FuncName,String,WVTAsn1SpcSpOpusInfoDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2008,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2008,FuncName,String,WVTAsn1SpcLinkDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2009,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2009,FuncName,String,WVTAsn1SpcLinkDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2010,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2010,FuncName,String,WVTAsn1IntentToSealAttributeDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2011,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2011,FuncName,String,WVTAsn1SealingSignatureAttributeDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2012,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2012,FuncName,String,WVTAsn1SealingTimestampAttributeDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2130,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2130,FuncName,String,WVTAsn1SpcSigInfoDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2221,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2221,FuncName,String,WVTAsn1CatNameValueDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2222,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2222,FuncName,String,WVTAsn1CatMemberInfoDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2223,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\#2223,FuncName,String,WVTAsn1CatMemberInfo2Decode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.12.2.1,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.12.2.1,FuncName,String,WVTAsn1CatNameValueDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.12.2.2,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.12.2.2,FuncName,String,WVTAsn1CatMemberInfoDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.12.2.3,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.12.2.3,FuncName,String,WVTAsn1CatMemberInfo2Decode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.16.1.1,Dll,String,C:\Windows\SysWOW64\cryptdlg.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.16.1.1,FuncName,String,DecodeAttrSequence
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.16.4,Dll,String,C:\Windows\SysWOW64\cryptdlg.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.16.4,FuncName,String,DecodeRecipientID
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.2.1.10,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.2.1.10,FuncName,String,WVTAsn1SpcSpAgencyInfoDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.2.1.11,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.2.1.11,FuncName,String,WVTAsn1SpcStatementTypeDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.2.1.12,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.2.1.12,FuncName,String,WVTAsn1SpcSpOpusInfoDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.2.1.15,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.2.1.15,FuncName,String,WVTAsn1SpcPeImageDataDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.2.1.20,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.2.1.20,FuncName,String,WVTAsn1SpcLinkDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.2.1.25,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.2.1.25,FuncName,String,WVTAsn1SpcLinkDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.2.1.26,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.2.1.26,FuncName,String,WVTAsn1SpcMinimalCriteriaInfoDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.2.1.27,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.2.1.27,FuncName,String,WVTAsn1SpcFinancialCriteriaInfoDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.2.1.28,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.2.1.28,FuncName,String,WVTAsn1SpcLinkDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.2.1.30,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.2.1.30,FuncName,String,WVTAsn1SpcSigInfoDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.2.1.4,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.2.1.4,FuncName,String,WVTAsn1SpcIndirectDataContentDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.2.4.2,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.2.4.2,FuncName,String,WVTAsn1IntentToSealAttributeDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.2.4.3,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.2.4.3,FuncName,String,WVTAsn1SealingSignatureAttributeDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.2.4.4,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObject\1.3.6.1.4.1.311.2.4.4,FuncName,String,WVTAsn1SealingTimestampAttributeDecode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObjectEx\1.2.840.113549.1.9.16.1.1,Dll,String,C:\Windows\SysWOW64\inetcomm.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObjectEx\1.2.840.113549.1.9.16.1.1,FuncName,String,EssReceiptDecodeEx
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObjectEx\1.2.840.113549.1.9.16.2.1,Dll,String,C:\Windows\SysWOW64\inetcomm.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObjectEx\1.2.840.113549.1.9.16.2.1,FuncName,String,EssReceiptRequestDecodeEx
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObjectEx\1.2.840.113549.1.9.16.2.11,Dll,String,C:\Windows\SysWOW64\inetcomm.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObjectEx\1.2.840.113549.1.9.16.2.11,FuncName,String,EssKeyExchPreferenceDecodeEx
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObjectEx\1.2.840.113549.1.9.16.2.12,Dll,String,C:\Windows\SysWOW64\inetcomm.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObjectEx\1.2.840.113549.1.9.16.2.12,FuncName,String,EssSignCertificateDecodeEx
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObjectEx\1.2.840.113549.1.9.16.2.2,Dll,String,C:\Windows\SysWOW64\inetcomm.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObjectEx\1.2.840.113549.1.9.16.2.2,FuncName,String,EssSecurityLabelDecodeEx
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObjectEx\1.2.840.113549.1.9.16.2.3,Dll,String,C:\Windows\SysWOW64\inetcomm.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObjectEx\1.2.840.113549.1.9.16.2.3,FuncName,String,EssMLHistoryDecodeEx
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObjectEx\1.2.840.113549.1.9.16.2.4,Dll,String,C:\Windows\SysWOW64\inetcomm.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllDecodeObjectEx\1.2.840.113549.1.9.16.2.4,FuncName,String,EssContentHintDecodeEx
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2000,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2000,FuncName,String,WVTAsn1SpcSpAgencyInfoEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2001,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2001,FuncName,String,WVTAsn1SpcMinimalCriteriaInfoEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2002,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2002,FuncName,String,WVTAsn1SpcFinancialCriteriaInfoEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2003,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2003,FuncName,String,WVTAsn1SpcIndirectDataContentEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2004,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2004,FuncName,String,WVTAsn1SpcPeImageDataEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2005,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2005,FuncName,String,WVTAsn1SpcLinkEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2006,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2006,FuncName,String,WVTAsn1SpcStatementTypeEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2007,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2007,FuncName,String,WVTAsn1SpcSpOpusInfoEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2008,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2008,FuncName,String,WVTAsn1SpcLinkEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2009,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2009,FuncName,String,WVTAsn1SpcLinkEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2010,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2010,FuncName,String,WVTAsn1IntentToSealAttributeEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2011,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2011,FuncName,String,WVTAsn1SealingSignatureAttributeEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2012,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2012,FuncName,String,WVTAsn1SealingTimestampAttributeEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2130,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2130,FuncName,String,WVTAsn1SpcSigInfoEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2221,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2221,FuncName,String,WVTAsn1CatNameValueEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2222,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2222,FuncName,String,WVTAsn1CatMemberInfoEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2223,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\#2223,FuncName,String,WVTAsn1CatMemberInfo2Encode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.12.2.1,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.12.2.1,FuncName,String,WVTAsn1CatNameValueEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.12.2.2,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.12.2.2,FuncName,String,WVTAsn1CatMemberInfoEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.12.2.3,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.12.2.3,FuncName,String,WVTAsn1CatMemberInfo2Encode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.16.1.1,Dll,String,C:\Windows\SysWOW64\cryptdlg.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.16.1.1,FuncName,String,EncodeAttrSequence
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.16.4,Dll,String,C:\Windows\SysWOW64\cryptdlg.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.16.4,FuncName,String,EncodeRecipientID
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.2.1.10,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.2.1.10,FuncName,String,WVTAsn1SpcSpAgencyInfoEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.2.1.11,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.2.1.11,FuncName,String,WVTAsn1SpcStatementTypeEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.2.1.12,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.2.1.12,FuncName,String,WVTAsn1SpcSpOpusInfoEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.2.1.15,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.2.1.15,FuncName,String,WVTAsn1SpcPeImageDataEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.2.1.20,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.2.1.20,FuncName,String,WVTAsn1SpcLinkEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.2.1.25,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.2.1.25,FuncName,String,WVTAsn1SpcLinkEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.2.1.26,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.2.1.26,FuncName,String,WVTAsn1SpcMinimalCriteriaInfoEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.2.1.27,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.2.1.27,FuncName,String,WVTAsn1SpcFinancialCriteriaInfoEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.2.1.28,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.2.1.28,FuncName,String,WVTAsn1SpcLinkEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.2.1.30,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.2.1.30,FuncName,String,WVTAsn1SpcSigInfoEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.2.1.4,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.2.1.4,FuncName,String,WVTAsn1SpcIndirectDataContentEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.2.4.2,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.2.4.2,FuncName,String,WVTAsn1IntentToSealAttributeEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.2.4.3,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.2.4.3,FuncName,String,WVTAsn1SealingSignatureAttributeEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.2.4.4,Dll,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObject\1.3.6.1.4.1.311.2.4.4,FuncName,String,WVTAsn1SealingTimestampAttributeEncode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObjectEx\1.2.840.113549.1.9.16.1.1,Dll,String,C:\Windows\SysWOW64\inetcomm.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObjectEx\1.2.840.113549.1.9.16.1.1,FuncName,String,EssReceiptEncodeEx
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObjectEx\1.2.840.113549.1.9.16.2.1,Dll,String,C:\Windows\SysWOW64\inetcomm.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObjectEx\1.2.840.113549.1.9.16.2.1,FuncName,String,EssReceiptRequestEncodeEx
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObjectEx\1.2.840.113549.1.9.16.2.11,Dll,String,C:\Windows\SysWOW64\inetcomm.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObjectEx\1.2.840.113549.1.9.16.2.11,FuncName,String,EssKeyExchPreferenceEncodeEx
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObjectEx\1.2.840.113549.1.9.16.2.12,Dll,String,C:\Windows\SysWOW64\inetcomm.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObjectEx\1.2.840.113549.1.9.16.2.12,FuncName,String,EssSignCertificateEncodeEx
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObjectEx\1.2.840.113549.1.9.16.2.2,Dll,String,C:\Windows\SysWOW64\inetcomm.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObjectEx\1.2.840.113549.1.9.16.2.2,FuncName,String,EssSecurityLabelEncodeEx
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObjectEx\1.2.840.113549.1.9.16.2.3,Dll,String,C:\Windows\SysWOW64\inetcomm.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObjectEx\1.2.840.113549.1.9.16.2.3,FuncName,String,EssMLHistoryEncodeEx
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObjectEx\1.2.840.113549.1.9.16.2.4,Dll,String,C:\Windows\SysWOW64\inetcomm.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllEncodeObjectEx\1.2.840.113549.1.9.16.2.4,FuncName,String,EssContentHintEncodeEx
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllFormatObject\1.3.6.1.5.5.7.3.4,Dll,String,C:\Windows\SysWOW64\cryptdlg.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllFormatObject\1.3.6.1.5.5.7.3.4,FuncName,String,FormatPKIXEmailProtection
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllFormatObject\2.5.29.32,Dll,String,C:\Windows\SysWOW64\cryptdlg.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\OID\EncodingType 1\CryptDllFormatObject\2.5.29.32,FuncName,String,FormatVerisignExtension
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Protect\Providers,Preferred,String,df9d8cd0-1501-11d1-8c7a-00c04fc297eb
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\CertCheck\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\CertCheck\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE},$Function,String,SoftpubCheckCert
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\CertCheck\{189A3842-3041-11D1-85E1-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\CertCheck\{189A3842-3041-11D1-85E1-00C04FC295EE},$Function,String,SoftpubCheckCert
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\CertCheck\{31D1ADC1-D329-11D1-8ED8-0080C76516C6},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\CertCheck\{31D1ADC1-D329-11D1-8ED8-0080C76516C6},$Function,String,SoftpubCheckCert
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\CertCheck\{573E31F8-AABA-11D0-8CCB-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\CertCheck\{573E31F8-AABA-11D0-8CCB-00C04FC295EE},$Function,String,SoftpubCheckCert
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\CertCheck\{573E31F8-DDBA-11D0-8CCB-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\CertCheck\{573E31F8-DDBA-11D0-8CCB-00C04FC295EE},$Function,String,SoftpubCheckCert
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\CertCheck\{6078065b-8f22-4b13-bd9b-5b762776f386},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\CertCheck\{6078065b-8f22-4b13-bd9b-5b762776f386},$Function,String,SoftpubCheckCert
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\CertCheck\{64B9D180-8DA2-11CF-8736-00AA00A485EB},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\CertCheck\{64B9D180-8DA2-11CF-8736-00AA00A485EB},$Function,String,SoftpubCheckCert
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\CertCheck\{7801EBD0-CF4B-11D0-851F-0060979387EA},$DLL,String,C:\Windows\SysWOW64\Cryptdlg.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\CertCheck\{7801EBD0-CF4B-11D0-851F-0060979387EA},$Function,String,CertTrustCertPolicy
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\CertCheck\{A7F4C378-21BE-494e-BA0F-BB12C5D208C5},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\CertCheck\{A7F4C378-21BE-494e-BA0F-BB12C5D208C5},$Function,String,SoftpubCheckCert
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\CertCheck\{C6B2E8D0-E005-11CF-A134-00C04FD7BF43},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\CertCheck\{C6B2E8D0-E005-11CF-A134-00C04FD7BF43},$Function,String,SoftpubCheckCert
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\CertCheck\{D41E4F1D-A407-11D1-8BC9-00C04FA30A41},$DLL,String,C:\Windows\SysWOW64\WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\CertCheck\{D41E4F1D-A407-11D1-8BC9-00C04FA30A41},$Function,String,SoftpubCheckCert
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\CertCheck\{D41E4F1F-A407-11D1-8BC9-00C04FA30A41},$DLL,String,C:\Windows\SysWOW64\WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\CertCheck\{D41E4F1F-A407-11D1-8BC9-00C04FA30A41},$Function,String,SoftpubCheckCert
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\CertCheck\{F750E6C3-38EE-11D1-85E5-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\CertCheck\{F750E6C3-38EE-11D1-85E5-00C04FC295EE},$Function,String,SoftpubCheckCert
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\CertCheck\{FC451C16-AC75-11D1-B4B8-00C04FB66EA0},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\CertCheck\{FC451C16-AC75-11D1-B4B8-00C04FB66EA0},$Function,String,SoftpubCheckCert
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Certificate\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Certificate\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE},$Function,String,WintrustCertificateTrust
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Certificate\{189A3842-3041-11D1-85E1-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Certificate\{189A3842-3041-11D1-85E1-00C04FC295EE},$Function,String,WintrustCertificateTrust
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Certificate\{31D1ADC1-D329-11D1-8ED8-0080C76516C6},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Certificate\{31D1ADC1-D329-11D1-8ED8-0080C76516C6},$Function,String,WintrustCertificateTrust
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Certificate\{573E31F8-AABA-11D0-8CCB-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Certificate\{573E31F8-AABA-11D0-8CCB-00C04FC295EE},$Function,String,HTTPSCertificateTrust
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Certificate\{573E31F8-DDBA-11D0-8CCB-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Certificate\{573E31F8-DDBA-11D0-8CCB-00C04FC295EE},$Function,String,WintrustCertificateTrust
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Certificate\{6078065b-8f22-4b13-bd9b-5b762776f386},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Certificate\{6078065b-8f22-4b13-bd9b-5b762776f386},$Function,String,WintrustCertificateTrust
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Certificate\{64B9D180-8DA2-11CF-8736-00AA00A485EB},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Certificate\{64B9D180-8DA2-11CF-8736-00AA00A485EB},$Function,String,WintrustCertificateTrust
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Certificate\{7801EBD0-CF4B-11D0-851F-0060979387EA},$DLL,String,C:\Windows\SysWOW64\WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Certificate\{7801EBD0-CF4B-11D0-851F-0060979387EA},$Function,String,WintrustCertificateTrust
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Certificate\{A7F4C378-21BE-494e-BA0F-BB12C5D208C5},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Certificate\{A7F4C378-21BE-494e-BA0F-BB12C5D208C5},$Function,String,WintrustCertificateTrust
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Certificate\{C6B2E8D0-E005-11CF-A134-00C04FD7BF43},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Certificate\{C6B2E8D0-E005-11CF-A134-00C04FD7BF43},$Function,String,WintrustCertificateTrust
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Certificate\{D41E4F1D-A407-11D1-8BC9-00C04FA30A41},$DLL,String,C:\Windows\SysWOW64\WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Certificate\{D41E4F1D-A407-11D1-8BC9-00C04FA30A41},$Function,String,WintrustCertificateTrust
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Certificate\{D41E4F1F-A407-11D1-8BC9-00C04FA30A41},$DLL,String,C:\Windows\SysWOW64\WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Certificate\{D41E4F1F-A407-11D1-8BC9-00C04FA30A41},$Function,String,WintrustCertificateTrust
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Certificate\{F750E6C3-38EE-11D1-85E5-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Certificate\{F750E6C3-38EE-11D1-85E5-00C04FC295EE},$Function,String,WintrustCertificateTrust
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Certificate\{FC451C16-AC75-11D1-B4B8-00C04FB66EA0},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Certificate\{FC451C16-AC75-11D1-B4B8-00C04FB66EA0},$Function,String,GenericChainCertificateTrust
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Cleanup\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Cleanup\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE},$Function,String,SoftpubCleanup
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Cleanup\{189A3842-3041-11D1-85E1-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Cleanup\{189A3842-3041-11D1-85E1-00C04FC295EE},$Function,String,SoftpubCleanup
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Cleanup\{573E31F8-AABA-11D0-8CCB-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Cleanup\{573E31F8-AABA-11D0-8CCB-00C04FC295EE},$Function,String,SoftpubCleanup
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Cleanup\{573E31F8-DDBA-11D0-8CCB-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Cleanup\{573E31F8-DDBA-11D0-8CCB-00C04FC295EE},$Function,String,SoftpubCleanup
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Cleanup\{6078065b-8f22-4b13-bd9b-5b762776f386},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Cleanup\{6078065b-8f22-4b13-bd9b-5b762776f386},$Function,String,DriverCleanupPolicy
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Cleanup\{64B9D180-8DA2-11CF-8736-00AA00A485EB},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Cleanup\{64B9D180-8DA2-11CF-8736-00AA00A485EB},$Function,String,SoftpubCleanup
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Cleanup\{7801EBD0-CF4B-11D0-851F-0060979387EA},$DLL,String,C:\Windows\SysWOW64\Cryptdlg.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Cleanup\{7801EBD0-CF4B-11D0-851F-0060979387EA},$Function,String,CertTrustCleanup
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Cleanup\{C6B2E8D0-E005-11CF-A134-00C04FD7BF43},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Cleanup\{C6B2E8D0-E005-11CF-A134-00C04FD7BF43},$Function,String,SoftpubCleanup
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Cleanup\{F750E6C3-38EE-11D1-85E5-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Cleanup\{F750E6C3-38EE-11D1-85E5-00C04FC295EE},$Function,String,DriverCleanupPolicy
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Cleanup\{FC451C16-AC75-11D1-B4B8-00C04FB66EA0},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Cleanup\{FC451C16-AC75-11D1-B4B8-00C04FB66EA0},$Function,String,SoftpubCleanup
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\DiagnosticPolicy\{573E31F8-DDBA-11D0-8CCB-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\DiagnosticPolicy\{573E31F8-DDBA-11D0-8CCB-00C04FC295EE},$Function,String,SoftpubDumpStructure
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE},$Function,String,SoftpubAuthenticode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{189A3842-3041-11D1-85E1-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{189A3842-3041-11D1-85E1-00C04FC295EE},$Function,String,SoftpubAuthenticode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{31D1ADC1-D329-11D1-8ED8-0080C76516C6},$DLL,String,C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorsec.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{31D1ADC1-D329-11D1-8ED8-0080C76516C6},$Function,String,CORPolicyEE
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{573E31F8-AABA-11D0-8CCB-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{573E31F8-AABA-11D0-8CCB-00C04FC295EE},$Function,String,HTTPSFinalProv
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{573E31F8-DDBA-11D0-8CCB-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{573E31F8-DDBA-11D0-8CCB-00C04FC295EE},$Function,String,SoftpubAuthenticode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{6078065b-8f22-4b13-bd9b-5b762776f386},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{6078065b-8f22-4b13-bd9b-5b762776f386},$Function,String,ConfigCiFinalPolicy
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{64B9D180-8DA2-11CF-8736-00AA00A485EB},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{64B9D180-8DA2-11CF-8736-00AA00A485EB},$Function,String,SoftpubAuthenticode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{7801EBD0-CF4B-11D0-851F-0060979387EA},$DLL,String,C:\Windows\SysWOW64\Cryptdlg.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{7801EBD0-CF4B-11D0-851F-0060979387EA},$Function,String,CertTrustFinalPolicy
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{A7F4C378-21BE-494e-BA0F-BB12C5D208C5},$DLL,String,C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsecimpl.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{A7F4C378-21BE-494e-BA0F-BB12C5D208C5},$Function,String,CORPolicyEE
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{C6B2E8D0-E005-11CF-A134-00C04FD7BF43},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{C6B2E8D0-E005-11CF-A134-00C04FD7BF43},$Function,String,SoftpubAuthenticode
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{D41E4F1D-A407-11D1-8BC9-00C04FA30A41},$DLL,String,C:\Windows\SysWOW64\urlmon.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{D41E4F1D-A407-11D1-8BC9-00C04FA30A41},$Function,String,CORPolicyProvider
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{D41E4F1F-A407-11D1-8BC9-00C04FA30A41},$DLL,String,C:\Windows\SysWOW64\ieframe.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{D41E4F1F-A407-11D1-8BC9-00C04FA30A41},$Function,String,CORLockDownProvider
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{F750E6C3-38EE-11D1-85E5-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{F750E6C3-38EE-11D1-85E5-00C04FC295EE},$Function,String,DriverFinalPolicy
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{FC451C16-AC75-11D1-B4B8-00C04FB66EA0},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\FinalPolicy\{FC451C16-AC75-11D1-B4B8-00C04FB66EA0},$Function,String,GenericChainFinalProv
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Initialization\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Initialization\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE},$Function,String,SoftpubInitialize
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Initialization\{189A3842-3041-11D1-85E1-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Initialization\{189A3842-3041-11D1-85E1-00C04FC295EE},$Function,String,SoftpubDefCertInit
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Initialization\{31D1ADC1-D329-11D1-8ED8-0080C76516C6},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Initialization\{31D1ADC1-D329-11D1-8ED8-0080C76516C6},$Function,String,SoftpubInitialize
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Initialization\{573E31F8-AABA-11D0-8CCB-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Initialization\{573E31F8-AABA-11D0-8CCB-00C04FC295EE},$Function,String,SoftpubInitialize
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Initialization\{573E31F8-DDBA-11D0-8CCB-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Initialization\{573E31F8-DDBA-11D0-8CCB-00C04FC295EE},$Function,String,SoftpubInitialize
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Initialization\{6078065b-8f22-4b13-bd9b-5b762776f386},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Initialization\{6078065b-8f22-4b13-bd9b-5b762776f386},$Function,String,DriverInitializePolicy
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Initialization\{64B9D180-8DA2-11CF-8736-00AA00A485EB},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Initialization\{64B9D180-8DA2-11CF-8736-00AA00A485EB},$Function,String,SoftpubInitialize
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Initialization\{7801EBD0-CF4B-11D0-851F-0060979387EA},$DLL,String,C:\Windows\SysWOW64\Cryptdlg.dll
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Initialization\{7801EBD0-CF4B-11D0-851F-0060979387EA},$Function,String,CertTrustInit
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Initialization\{A7F4C378-21BE-494e-BA0F-BB12C5D208C5},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Initialization\{A7F4C378-21BE-494e-BA0F-BB12C5D208C5},$Function,String,SoftpubInitialize
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Initialization\{C6B2E8D0-E005-11CF-A134-00C04FD7BF43},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Initialization\{C6B2E8D0-E005-11CF-A134-00C04FD7BF43},$Function,String,SoftpubInitialize
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Initialization\{D41E4F1D-A407-11D1-8BC9-00C04FA30A41},$DLL,String,C:\Windows\SysWOW64\WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Initialization\{D41E4F1D-A407-11D1-8BC9-00C04FA30A41},$Function,String,SoftpubInitialize
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Initialization\{D41E4F1F-A407-11D1-8BC9-00C04FA30A41},$DLL,String,C:\Windows\SysWOW64\WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Initialization\{D41E4F1F-A407-11D1-8BC9-00C04FA30A41},$Function,String,SoftpubInitialize
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Initialization\{F750E6C3-38EE-11D1-85E5-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Initialization\{F750E6C3-38EE-11D1-85E5-00C04FC295EE},$Function,String,DriverInitializePolicy
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Initialization\{FC451C16-AC75-11D1-B4B8-00C04FB66EA0},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Initialization\{FC451C16-AC75-11D1-B4B8-00C04FB66EA0},$Function,String,SoftpubInitialize
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Message\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Message\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE},$Function,String,SoftpubLoadMessage
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Message\{189A3842-3041-11D1-85E1-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Message\{189A3842-3041-11D1-85E1-00C04FC295EE},$Function,String,SoftpubLoadMessage
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Message\{31D1ADC1-D329-11D1-8ED8-0080C76516C6},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Message\{31D1ADC1-D329-11D1-8ED8-0080C76516C6},$Function,String,SoftpubLoadMessage
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Message\{573E31F8-AABA-11D0-8CCB-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Message\{573E31F8-AABA-11D0-8CCB-00C04FC295EE},$Function,String,SoftpubLoadMessage
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Message\{573E31F8-DDBA-11D0-8CCB-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Message\{573E31F8-DDBA-11D0-8CCB-00C04FC295EE},$Function,String,SoftpubLoadMessage
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Message\{6078065b-8f22-4b13-bd9b-5b762776f386},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Message\{6078065b-8f22-4b13-bd9b-5b762776f386},$Function,String,SoftpubLoadMessage
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Message\{64B9D180-8DA2-11CF-8736-00AA00A485EB},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Message\{64B9D180-8DA2-11CF-8736-00AA00A485EB},$Function,String,SoftpubLoadMessage
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Message\{A7F4C378-21BE-494e-BA0F-BB12C5D208C5},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Message\{A7F4C378-21BE-494e-BA0F-BB12C5D208C5},$Function,String,SoftpubLoadMessage
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Message\{C6B2E8D0-E005-11CF-A134-00C04FD7BF43},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Message\{C6B2E8D0-E005-11CF-A134-00C04FD7BF43},$Function,String,SoftpubLoadMessage
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Message\{D41E4F1D-A407-11D1-8BC9-00C04FA30A41},$DLL,String,C:\Windows\SysWOW64\WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Message\{D41E4F1D-A407-11D1-8BC9-00C04FA30A41},$Function,String,SoftpubLoadMessage
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Message\{D41E4F1F-A407-11D1-8BC9-00C04FA30A41},$DLL,String,C:\Windows\SysWOW64\WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Message\{D41E4F1F-A407-11D1-8BC9-00C04FA30A41},$Function,String,SoftpubLoadMessage
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Message\{F750E6C3-38EE-11D1-85E5-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Message\{F750E6C3-38EE-11D1-85E5-00C04FC295EE},$Function,String,SoftpubLoadMessage
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Message\{FC451C16-AC75-11D1-B4B8-00C04FB66EA0},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Message\{FC451C16-AC75-11D1-B4B8-00C04FB66EA0},$Function,String,SoftpubLoadMessage
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Signature\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Signature\{00AAC56B-CD44-11D0-8CC2-00C04FC295EE},$Function,String,SoftpubLoadSignature
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Signature\{189A3842-3041-11D1-85E1-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Signature\{189A3842-3041-11D1-85E1-00C04FC295EE},$Function,String,SoftpubLoadSignature
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Signature\{31D1ADC1-D329-11D1-8ED8-0080C76516C6},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Signature\{31D1ADC1-D329-11D1-8ED8-0080C76516C6},$Function,String,SoftpubLoadSignature
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Signature\{573E31F8-AABA-11D0-8CCB-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Signature\{573E31F8-AABA-11D0-8CCB-00C04FC295EE},$Function,String,SoftpubLoadSignature
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Signature\{573E31F8-DDBA-11D0-8CCB-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Signature\{573E31F8-DDBA-11D0-8CCB-00C04FC295EE},$Function,String,SoftpubLoadSignature
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Signature\{6078065b-8f22-4b13-bd9b-5b762776f386},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Signature\{6078065b-8f22-4b13-bd9b-5b762776f386},$Function,String,SoftpubLoadSignature
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Signature\{64B9D180-8DA2-11CF-8736-00AA00A485EB},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Signature\{64B9D180-8DA2-11CF-8736-00AA00A485EB},$Function,String,SoftpubLoadSignature
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Signature\{A7F4C378-21BE-494e-BA0F-BB12C5D208C5},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Signature\{A7F4C378-21BE-494e-BA0F-BB12C5D208C5},$Function,String,SoftpubLoadSignature
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Signature\{C6B2E8D0-E005-11CF-A134-00C04FD7BF43},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Signature\{C6B2E8D0-E005-11CF-A134-00C04FD7BF43},$Function,String,SoftpubLoadSignature
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Signature\{D41E4F1D-A407-11D1-8BC9-00C04FA30A41},$DLL,String,C:\Windows\SysWOW64\WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Signature\{D41E4F1D-A407-11D1-8BC9-00C04FA30A41},$Function,String,SoftpubLoadSignature
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Signature\{D41E4F1F-A407-11D1-8BC9-00C04FA30A41},$DLL,String,C:\Windows\SysWOW64\WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Signature\{D41E4F1F-A407-11D1-8BC9-00C04FA30A41},$Function,String,SoftpubLoadSignature
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Signature\{F750E6C3-38EE-11D1-85E5-00C04FC295EE},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Signature\{F750E6C3-38EE-11D1-85E5-00C04FC295EE},$Function,String,SoftpubLoadSignature
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Signature\{FC451C16-AC75-11D1-B4B8-00C04FB66EA0},$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Signature\{FC451C16-AC75-11D1-B4B8-00C04FB66EA0},$Function,String,SoftpubLoadSignature
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Usages\1.3.6.1.4.1.311.10.3.3,$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Usages\1.3.6.1.4.1.311.10.3.3,CallbackAllocFunction,String,SoftpubLoadDefUsageCallData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Usages\1.3.6.1.4.1.311.10.3.3,CallbackFreeFunction,String,SoftpubFreeDefUsageCallData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Usages\1.3.6.1.4.1.311.10.3.3,DefaultId,String,{573E31F8-AABA-11D0-8CCB-00C04FC295EE}
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Usages\1.3.6.1.5.5.7.3.1,$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Usages\1.3.6.1.5.5.7.3.1,CallbackAllocFunction,String,SoftpubLoadDefUsageCallData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Usages\1.3.6.1.5.5.7.3.1,CallbackFreeFunction,String,SoftpubFreeDefUsageCallData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Usages\1.3.6.1.5.5.7.3.1,DefaultId,String,{573E31F8-AABA-11D0-8CCB-00C04FC295EE}
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Usages\1.3.6.1.5.5.7.3.2,$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Usages\1.3.6.1.5.5.7.3.2,CallbackAllocFunction,String,SoftpubLoadDefUsageCallData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Usages\1.3.6.1.5.5.7.3.2,CallbackFreeFunction,String,SoftpubFreeDefUsageCallData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Usages\1.3.6.1.5.5.7.3.2,DefaultId,String,{573E31F8-AABA-11D0-8CCB-00C04FC295EE}
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Usages\1.3.6.1.5.5.7.3.3,DefaultId,String,{00AAC56B-CD44-11D0-8CC2-00C04FC295EE}
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Usages\2.16.840.1.113730.4.1,$DLL,String,WINTRUST.DLL
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Usages\2.16.840.1.113730.4.1,CallbackAllocFunction,String,SoftpubLoadDefUsageCallData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Usages\2.16.840.1.113730.4.1,CallbackFreeFunction,String,SoftpubFreeDefUsageCallData
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\Providers\Trust\Usages\2.16.840.1.113730.4.1,DefaultId,String,{573E31F8-AABA-11D0-8CCB-00C04FC295EE}
+HiveKeyLocalMachine,Software\Microsoft\Cryptography\UserInterface,WizardExtension,String,%SystemRoot%\system32\cryptuiwizard.dll

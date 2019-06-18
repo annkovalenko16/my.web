@@ -1,0 +1,26 @@
+[2019/06/17 17:38:02.929, jusched.exe (PID: 14888, TID: 11240), AllUtils.cpp:124 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2019/06/17 17:43:02.950, jusched.exe (PID: 14888, TID: 11240), AllUtils.cpp:124 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Wed Jun 19 02:14:00 2019
+
+[2019/06/17 17:43:02.953, jusched.exe (PID: 14888, TID: 11240), AllUtils.cpp:124 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Wed Jun 19 02:14:00 2019
+JavaUpdate [Critical]lastSchedTime=Wed Jun 12 02:14:00 2019
+JavaUpdate [Critical]nextSchedTime=Wed Jun 19 02:14:00 2019
+JavaUpdate [Critical]sleeptime (sec=117058, hours=32, days=1.35)
+actual sleep time=117058000 msecs (32:30:58) for JavaUpdate [Critical]
+
+[2019/06/18 08:27:12.935, jusched.exe (PID: 2512, TID: 10456), AllUtils.cpp:124 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2019/06/18 08:32:12.957, jusched.exe (PID: 2512, TID: 10456), AllUtils.cpp:124 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Wed Jun 19 02:14:00 2019
+
+[2019/06/18 08:32:12.960, jusched.exe (PID: 2512, TID: 10456), AllUtils.cpp:124 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Wed Jun 19 02:14:00 2019
+JavaUpdate [Critical]lastSchedTime=Wed Jun 12 02:14:00 2019
+JavaUpdate [Critical]nextSchedTime=Wed Jun 19 02:14:00 2019
+JavaUpdate [Critical]sleeptime (sec=63708, hours=17, days=0.74)
+actual sleep time=63708000 msecs (17:41:48) for JavaUpdate [Critical]
+
